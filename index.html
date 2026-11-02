@@ -1,1 +1,34 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Mushroom Audio Evaluation</title><link rel="stylesheet" href="style.css"><script src="app.js" defer></script></head><body><main><p class="eyebrow">MUSHROOM HOUSE 🍄 STUDIO</p><h1>Audio Evaluation</h1><p>Listen, evaluate, and leave a note. Only recordings you evaluate or comment on enter your report.</p><div id="catalog"></div><section class="report"><h2>Your evaluation report</h2><button id="prepare">Prepare report</button><textarea id="report" readonly placeholder="Your evaluations will appear here."></textarea><button id="copy">Copy report</button><p id="status" role="status"></p></section></main></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mushroom House · Audio Evaluation</title>
+<link rel="stylesheet" href="style.css">
+<script src="app.js" defer></script>
+</head>
+<body>
+<main>
+<header class="masthead">
+  <div>
+    <p class="eyebrow">MUSHROOM HOUSE 🍄 STUDIO / AUDIO LAB</p>
+    <h1>Audio Evaluation<span class="cursor">_</span></h1>
+    <p class="intro">A listening laboratory for generated music. Open a prompt, play a recording, then evaluate what you hear.</p>
+  </div>
+  <img class="hero-icon" src="assets/musicStudio_06.png" alt="">
+</header>
+<div class="toolbar">
+  <span id="summary">Loading recordings…</span>
+  <button id="collapse-all" class="quiet" type="button">Collapse all</button>
+</div>
+<div id="catalog"></div>
+<section class="report" id="evaluation-report">
+  <div class="report-heading"><div><p class="eyebrow">LISTENING NOTES / EXPORT</p><h2>Your evaluation report</h2></div><img src="assets/musicStudio_09.png" alt=""></div>
+  <p>Only recordings you rate or comment on are included.</p>
+  <div class="report-actions"><button id="prepare" type="button">Prepare report</button><button id="copy" type="button" class="quiet">Copy report</button></div>
+  <textarea id="report" readonly placeholder="Your evaluations will appear here."></textarea>
+  <p id="status" role="status"></p>
+</section>
+</main>
+</body>
+</html>
