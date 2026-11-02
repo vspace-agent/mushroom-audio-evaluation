@@ -1,0 +1,261 @@
+[
+  {
+    "theme": "mist_golden_morning",
+    "name": "track_01_golden_mist",
+    "prompt": "Soft instrumental ambient music, 55 BPM, gentle piano melody, warm sustained strings and airy synth pads. Delicate harmonies, spacious texture, quiet golden morning atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_7c5817f6931e4970_track_01_golden_mist_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793363739.140806,
+        "src": "audio/studio_batch_7c5817f6931e4970_track_01_golden_mist_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_01_golden_mist_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_01_golden_mist_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_01_golden_mist_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_01_golden_mist_2.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_01_golden_mist_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_01_golden_mist_3.mp3"
+      },
+      {
+        "id": "studio_batch_c267f08ed2d9409b_track_01_golden_mist_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793390850.858986,
+        "src": "audio/studio_batch_c267f08ed2d9409b_track_01_golden_mist_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mist_golden_morning",
+    "name": "track_02_coffee_and_croissant",
+    "prompt": "Warm acoustic chamber jazz instrumental, 72 BPM, mellow piano, soft upright bass and delicate brushed drums. Relaxed slow swing, playful little melodic phrases, intimate cafe atmosphere, gentle dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_7c5817f6931e4970_track_02_coffee_and_croissant_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793363739.140806,
+        "src": "audio/studio_batch_7c5817f6931e4970_track_02_coffee_and_croissant_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_02_coffee_and_croissant_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_02_coffee_and_croissant_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_02_coffee_and_croissant_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_02_coffee_and_croissant_2.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_02_coffee_and_croissant_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_02_coffee_and_croissant_3.mp3"
+      },
+      {
+        "id": "studio_batch_c267f08ed2d9409b_track_02_coffee_and_croissant_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793390850.858986,
+        "src": "audio/studio_batch_c267f08ed2d9409b_track_02_coffee_and_croissant_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mist_golden_morning",
+    "name": "track_03_sleepy_kitchen",
+    "prompt": "Minimalist instrumental music, 48 BPM, sparse felt piano notes, soft cello and warm acoustic guitar. Simple descending melody, long pauses, drowsy intimate atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_7c5817f6931e4970_track_03_sleepy_kitchen_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793363739.140806,
+        "src": "audio/studio_batch_7c5817f6931e4970_track_03_sleepy_kitchen_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_03_sleepy_kitchen_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_03_sleepy_kitchen_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_03_sleepy_kitchen_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_03_sleepy_kitchen_2.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_03_sleepy_kitchen_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_03_sleepy_kitchen_3.mp3"
+      },
+      {
+        "id": "studio_batch_c267f08ed2d9409b_track_03_sleepy_kitchen_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793390850.858986,
+        "src": "audio/studio_batch_c267f08ed2d9409b_track_03_sleepy_kitchen_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mist_golden_morning",
+    "name": "track_04_little_kettle",
+    "prompt": "Gentle instrumental miniature, 80 BPM, delicate pizzicato strings, soft piano and light wooden percussion. Quiet repeating motifs, subtle bubbling rhythmic figures, warm playful harmonies, restrained dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_7c5817f6931e4970_track_04_little_kettle_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793363739.140806,
+        "src": "audio/studio_batch_7c5817f6931e4970_track_04_little_kettle_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_04_little_kettle_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_04_little_kettle_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_04_little_kettle_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_04_little_kettle_2.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_04_little_kettle_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_04_little_kettle_3.mp3"
+      },
+      {
+        "id": "studio_batch_c267f08ed2d9409b_track_04_little_kettle_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793390850.858986,
+        "src": "audio/studio_batch_c267f08ed2d9409b_track_04_little_kettle_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mist_golden_morning",
+    "name": "track_05_rising_steam",
+    "prompt": "Airy ambient instrumental, 50 BPM, warm synthesizer pads, high delicate piano notes and soft sustained violin. Floating melody, slow harmonic changes, gentle swells, weightless spacious texture, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_7c5817f6931e4970_track_05_rising_steam_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793363739.140806,
+        "src": "audio/studio_batch_7c5817f6931e4970_track_05_rising_steam_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_05_rising_steam_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_05_rising_steam_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_05_rising_steam_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_05_rising_steam_2.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_05_rising_steam_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_05_rising_steam_3.mp3"
+      },
+      {
+        "id": "studio_batch_c267f08ed2d9409b_track_05_rising_steam_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793390850.858986,
+        "src": "audio/studio_batch_c267f08ed2d9409b_track_05_rising_steam_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mist_golden_morning",
+    "name": "track_06_silk_and_skin",
+    "prompt": "Sensual instrumental downtempo music, 65 BPM, deep warm bass, intimate electric piano and soft brushed percussion. Slow hypnotic pulse, expressive melodic phrasing, rich minor harmonies, gentle tension and release, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_7c5817f6931e4970_track_06_silk_and_skin_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793363739.140806,
+        "src": "audio/studio_batch_7c5817f6931e4970_track_06_silk_and_skin_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_06_silk_and_skin_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_06_silk_and_skin_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_06_silk_and_skin_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_06_silk_and_skin_2.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_06_silk_and_skin_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_06_silk_and_skin_3.mp3"
+      },
+      {
+        "id": "studio_batch_c267f08ed2d9409b_track_06_silk_and_skin_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793390850.858986,
+        "src": "audio/studio_batch_c267f08ed2d9409b_track_06_silk_and_skin_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mist_golden_morning",
+    "name": "track_07_morning_after",
+    "prompt": "Tender acoustic instrumental, 58 BPM, warm fingerpicked guitar, soft piano and low sustained cello. Simple affectionate melody, gentle major harmonies, intimate natural recording, soft fading dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_7c5817f6931e4970_track_07_morning_after_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793363739.140806,
+        "src": "audio/studio_batch_7c5817f6931e4970_track_07_morning_after_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_07_morning_after_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_07_morning_after_1.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_07_morning_after_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_07_morning_after_2.mp3"
+      },
+      {
+        "id": "studio_batch_a7039b3b247144fb_track_07_morning_after_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793361895.613159,
+        "src": "audio/studio_batch_a7039b3b247144fb_track_07_morning_after_3.mp3"
+      },
+      {
+        "id": "studio_batch_c267f08ed2d9409b_track_07_morning_after_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793390850.858986,
+        "src": "audio/studio_batch_c267f08ed2d9409b_track_07_morning_after_1.mp3"
+      }
+    ]
+  }
+]
