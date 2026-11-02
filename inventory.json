@@ -257,5 +257,480 @@
         "src": "audio/studio_batch_c267f08ed2d9409b_track_07_morning_after_1.mp3"
       }
     ]
+  },
+  {
+    "theme": "mushroom_weekend_excited_dog",
+    "name": "track_01_sleepy_saturday",
+    "prompt": "Mellow instrumental jazz trio, 65 BPM, warm piano, upright bass and soft brushed drums. Lazy swing groove, simple descending melody, gentle major harmonies, relaxed weekend atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_01_sleepy_saturday_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_01_sleepy_saturday_1.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_01_sleepy_saturday_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_01_sleepy_saturday_2.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_01_sleepy_saturday_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_01_sleepy_saturday_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_weekend_excited_dog",
+    "name": "track_02_unexpected_visitor",
+    "prompt": "Playful instrumental swing jazz, 108 BPM, bright piano, walking upright bass and crisp brushed drums. Bouncy syncopated rhythm, short ascending piano phrases, cheerful harmonic changes, lively dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_02_unexpected_visitor_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_02_unexpected_visitor_1.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_02_unexpected_visitor_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_02_unexpected_visitor_2.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_02_unexpected_visitor_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_02_unexpected_visitor_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_weekend_excited_dog",
+    "name": "track_03_little_dog_big_excitement",
+    "prompt": "Energetic instrumental jazz, 132 BPM, lively piano, walking bass and swinging drums. Quick repeating melodic motifs, playful syncopation, bright major harmonies, spirited rhythmic accents, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_03_little_dog_big_excitement_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_03_little_dog_big_excitement_1.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_03_little_dog_big_excitement_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_03_little_dog_big_excitement_2.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_03_little_dog_big_excitement_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_03_little_dog_big_excitement_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_weekend_excited_dog",
+    "name": "track_04_tiny_mushroom_in_trouble",
+    "prompt": "Comical instrumental swing jazz, 115 BPM, expressive piano, upright bass and light snare drums. Staccato melodic phrases, sudden rhythmic accents, playful chromatic movement, mischievous energetic atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_04_tiny_mushroom_in_trouble_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_04_tiny_mushroom_in_trouble_1.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_04_tiny_mushroom_in_trouble_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_04_tiny_mushroom_in_trouble_2.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_04_tiny_mushroom_in_trouble_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_04_tiny_mushroom_in_trouble_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_weekend_excited_dog",
+    "name": "track_05_one_little_bite",
+    "prompt": "Playful instrumental jazz, 96 BPM, warm piano, plucked upright bass and brushed drums. Short syncopated piano motifs, gentle rhythmic stops, bluesy harmonic turns, humorous tension and release, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_05_one_little_bite_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_05_one_little_bite_1.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_05_one_little_bite_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_05_one_little_bite_2.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_05_one_little_bite_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_05_one_little_bite_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_weekend_excited_dog",
+    "name": "track_06_dog_is_very_sorry",
+    "prompt": "Tender instrumental jazz ballad, 68 BPM, mellow piano, soft upright bass and delicate brushed drums. Slow steady pulse, descending melodic phrases, warm minor-to-major harmonies, gentle expressive development, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_06_dog_is_very_sorry_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_06_dog_is_very_sorry_1.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_06_dog_is_very_sorry_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_06_dog_is_very_sorry_2.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_06_dog_is_very_sorry_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_06_dog_is_very_sorry_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_weekend_excited_dog",
+    "name": "track_07_sunday_cuddle",
+    "prompt": "Cozy instrumental lounge jazz, 72 BPM, intimate piano, warm upright bass and soft brushed drums. Relaxed slow swing, affectionate repeating melody, mellow major seventh chords, smooth harmonic resolution, peaceful dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_07_sunday_cuddle_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_07_sunday_cuddle_1.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_07_sunday_cuddle_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_07_sunday_cuddle_2.mp3"
+      },
+      {
+        "id": "studio_batch_993b5d5ff3d944db_track_07_sunday_cuddle_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793616059.785743,
+        "src": "audio/studio_batch_993b5d5ff3d944db_track_07_sunday_cuddle_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_01_saturday_kitchen_wakes",
+    "prompt": "Warm instrumental lounge jazz, 68 BPM, mellow electric piano, upright bass and soft brushed drums. Relaxed swing groove, gentle repeating melody, warm major seventh chords, intimate cozy atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_02_hormus_knows_noodles",
+    "prompt": "Playful instrumental swing jazz, 92 BPM, bright acoustic piano, walking upright bass and light brushed drums. Bouncy syncopated rhythm, cheerful melodic phrases, bluesy chord changes, warm vintage jazz sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_03_seventeen_minutes_one_noodle",
+    "prompt": "Comical instrumental jazz trio, 106 BPM, lively piano, plucked upright bass and swinging drums. Short staccato piano motifs, playful rhythmic accents, light chromatic runs, steady cheerful groove, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_04_silas_noodle_supervisor",
+    "prompt": "Cool instrumental jazz, 88 BPM, smooth electric piano, deep upright bass and crisp brushed percussion. Confident syncopated groove, neat repeating melodic phrases, subtle blues harmonies, polished intimate sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_05_osi_tastes_one_noodle",
+    "prompt": "Sleepy instrumental jazz ballad, 60 BPM, gentle acoustic piano, soft upright bass and delicate brushed drums. Slow steady pulse, simple descending melody, warm sustained chords, unhurried peaceful atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_06_sunday_somyeon",
+    "prompt": "Cozy instrumental lounge jazz, 72 BPM, warm electric piano, mellow bass and soft brushed drums. Gentle flowing melody, relaxed swing rhythm, rich major seventh harmonies, intimate natural production, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_07_cabbage_and_mushrooms",
+    "prompt": "Light instrumental bossa nova jazz, 94 BPM, warm nylon-string guitar, soft electric piano and gentle Latin percussion. Smooth syncopated groove, playful melodic phrases, bright mellow harmonies, relaxed kitchen atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_08_the_missing_olive",
+    "prompt": "Mischievous instrumental swing jazz, 110 BPM, lively piano, walking upright bass and light jazz drums. Short bluesy motifs, bouncing rhythm, playful chromatic phrases, cheerful tension and release, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_09_hazel_guards_breakfast",
+    "prompt": "Gentle instrumental cool jazz, 76 BPM, mellow piano, upright bass and soft brushed drums. Steady relaxed groove, thoughtful melodic phrasing, warm minor seventh harmonies, restrained dynamics, intimate acoustic sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_10_the_dough_is_rising",
+    "prompt": "Warm instrumental soul jazz, 70 BPM, soft electric piano, deep rounded bass and delicate brushed percussion. Slow hypnotic groove, gently ascending melody, rich warm harmonies, gradual musical development, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_11_one_rise_no_disturbance",
+    "prompt": "Minimal instrumental downtempo jazz, 64 BPM, mellow electric piano, warm bass and subtle brushed drums. Slow continuous pulse, simple repeating piano motif, smooth harmonic movement, soft dynamics, peaceful intimate atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "mushroom_house_kitchen_weekend",
+    "name": "track_12_hormus_sunday_loaf",
+    "prompt": "Tender instrumental jazz ballad, 66 BPM, warm acoustic piano, soft upright bass and gentle brushed drums. Relaxed steady rhythm, affectionate flowing melody, mellow major harmonies, gentle resolution, cozy nostalgic atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_1.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_2.mp3"
+      },
+      {
+        "id": "studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793619306.0300748,
+        "src": "audio/studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_3.mp3"
+      }
+    ]
   }
 ]
