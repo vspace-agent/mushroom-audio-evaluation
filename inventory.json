@@ -455,6 +455,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_01_saturday_kitchen_wakes_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_01_saturday_kitchen_wakes_1.mp3"
       }
     ]
   },
@@ -480,6 +486,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_02_hormus_knows_noodles_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_02_hormus_knows_noodles_1.mp3"
       }
     ]
   },
@@ -505,6 +517,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_03_seventeen_minutes_one_noodle_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_03_seventeen_minutes_one_noodle_1.mp3"
       }
     ]
   },
@@ -530,6 +548,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_04_silas_noodle_supervisor_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_04_silas_noodle_supervisor_1.mp3"
       }
     ]
   },
@@ -555,6 +579,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_05_osi_tastes_one_noodle_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_05_osi_tastes_one_noodle_1.mp3"
       }
     ]
   },
@@ -580,6 +610,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_06_sunday_somyeon_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_06_sunday_somyeon_1.mp3"
       }
     ]
   },
@@ -605,6 +641,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_07_cabbage_and_mushrooms_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_07_cabbage_and_mushrooms_1.mp3"
       }
     ]
   },
@@ -630,6 +672,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_08_the_missing_olive_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_08_the_missing_olive_1.mp3"
       }
     ]
   },
@@ -655,6 +703,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_09_hazel_guards_breakfast_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_09_hazel_guards_breakfast_1.mp3"
       }
     ]
   },
@@ -680,6 +734,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_10_the_dough_is_rising_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_10_the_dough_is_rising_1.mp3"
       }
     ]
   },
@@ -705,6 +765,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_11_one_rise_no_disturbance_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_11_one_rise_no_disturbance_1.mp3"
       }
     ]
   },
@@ -730,6 +796,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_3.mp3"
+      },
+      {
+        "id": "studio_batch_b47a0f5726804cea_track_12_hormus_sunday_loaf_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793701328.2481542,
+        "src": "audio/studio_batch_b47a0f5726804cea_track_12_hormus_sunday_loaf_1.mp3"
       }
     ]
   }
