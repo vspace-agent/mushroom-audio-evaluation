@@ -226,15 +226,28 @@ function makeTrimEditor(track, audio) {
           offset += 2;
         }
       }
-      const url = URL.createObjectURL(new Blob([wav], {type: 'audio/wav'}));
-      const link = document.createElement('a');
-      link.href = url;
-      link.download = `${[track.theme || 'theme', String(track.prompt_name || track.promptName || 'prompt').replace(/^track_\d+_/, ''), String(track.recording_number || track.recordingNumber || track.id).padStart(2,'0')].map(v=>String(v).replace(/[^a-zA-Z0-9_-]/g,'_')).join('_')}.wav`;
-      document.body.append(link);
-      link.click();
-      link.remove();
-      setTimeout(() => URL.revokeObjectURL(url), 60000);
-      info.textContent = `${time(a)} – ${time(b)} · WAV ready`;
+      const filename = `${[track.theme || 'theme', String(track.prompt_name || track.promptName || 'prompt').replace(/^track_\\d+_/, ''), String(track.recording_number || track.recordingNumber || track.id).padStart(2,'0')].map(v=>String(v).replace(/[^a-zA-Z0-9_-]/g,'_')).join('_')}.wav`;
+      const file = new File([wav], filename, {type: 'audio/wav'});
+      if (navigator.share && navigator.canShare?.({files: [file]})) {
+        await navigator.share({files: [file]});
+        info.textContent = `${time(a)} – ${time(b)} · WAV shared`;
+      } else {
+        const url = URL.createObjectURL(file);
+        const link = document.createElement('a');
+        link.href = url;
+        link.download = filename;
+        link.textContent = `↓ Save ${filename}`;
+        link.style.display = 'block';
+        link.style.marginTop = '12px';
+        const previous = controls.querySelector('.trim-save-link');
+        if (previous) {
+          URL.revokeObjectURL(previous.href);
+          previous.remove();
+        }
+        link.className = 'trim-save-link';
+        controls.append(link);
+        info.textContent = `${time(a)} – ${time(b)} · Tap the save link below`;
+      }
     } catch (error) {
       info.textContent = 'Export failed: ' + error.message;
     } finally {
