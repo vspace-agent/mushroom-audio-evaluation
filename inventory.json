@@ -806,6 +806,306 @@
     ]
   },
   {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_01_the_hidden_cemetery",
+    "prompt": "Romantic classical chamber instrumental, 68 BPM, expressive solo cello with warm piano accompaniment. Flowing minor-key melody, rich sustained cello tones, gentle harmonic movement, solemn autumn atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_02_beneath_enormous_trees",
+    "prompt": "Classical string ensemble, 72 BPM, lyrical violins, warm violas and deep cellos. Broad legato melody, rich minor harmonies, measured rhythmic movement, restrained orchestral dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_03_rust_copper_and_gold",
+    "prompt": "Romantic classical instrumental, 76 BPM, expressive solo violin with warm piano accompaniment. Sweeping lyrical melody, rich major-minor harmonies, elegant phrasing, warm resonant acoustic sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_04_a_fox_in_the_shadows",
+    "prompt": "Dark classical chamber music, 66 BPM, low solo cello and soft piano accompaniment. Expressive descending melody, sustained minor harmonies, gentle rhythmic pulse, mysterious intimate atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_05_paws_among_fallen_leaves",
+    "prompt": "Light classical string quartet, 84 BPM, delicate violins, viola and pizzicato cello. Graceful repeating melody, gentle rhythmic movement, subtle staccato accents, warm chamber acoustics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_06_the_old_wooden_cross",
+    "prompt": "Solemn romantic classical instrumental, 60 BPM, deep expressive cello with sustained string accompaniment. Slow lyrical phrases, rich minor harmonies, gradual dynamic swells, spacious resonant sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_07_one_graceful_jump",
+    "prompt": "Elegant classical chamber music, 92 BPM, bright solo violin with piano accompaniment. Light ascending melody, graceful rhythmic accents, flowing major-key harmonies, controlled lively dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_07_one_graceful_jump_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_07_one_graceful_jump_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_07_one_graceful_jump_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_07_one_graceful_jump_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_07_one_graceful_jump_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_07_one_graceful_jump_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_08_the_stranger_stops",
+    "prompt": "Intimate romantic classical instrumental, 64 BPM, warm solo cello and gentle piano. Sustained lyrical melody, steady measured pulse, subtle harmonic tension, restrained dynamics, natural chamber recording, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_08_the_stranger_stops_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_08_the_stranger_stops_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_08_the_stranger_stops_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_08_the_stranger_stops_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_08_the_stranger_stops_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_08_the_stranger_stops_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_09_neither_runs_away",
+    "prompt": "Tender classical string ensemble, 68 BPM, expressive violins, warm violas and deep cellos. Gentle legato melody, rich minor-to-major harmonies, steady flowing rhythm, intimate restrained dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_09_neither_runs_away_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_09_neither_runs_away_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_09_neither_runs_away_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_09_neither_runs_away_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_09_neither_runs_away_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_09_neither_runs_away_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_10_the_breeze_in_her_tail",
+    "prompt": "Delicate romantic classical instrumental, 74 BPM, lyrical solo violin with soft string accompaniment. Flowing melodic phrases, gentle rising and falling dynamics, warm major harmonies, airy chamber acoustics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_11_golden_light_on_old_stones",
+    "prompt": "Rich romantic orchestral instrumental, 70 BPM, expressive cello section, lyrical violins and warm French horns. Broad sustained melody, deep harmonic movement, gradual orchestral swells, noble autumn atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "red_fox_in_dusk_graveyard",
+    "name": "track_12_the_hour_between_gold_and_shadow",
+    "prompt": "Romantic classical string orchestra, 62 BPM, deep cellos, expressive violins and warm violas. Slow flowing minor-key melody, rich sustained harmonies, gentle crescendo followed by a soft resolution, solemn intimate atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_1.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_2.mp3"
+      },
+      {
+        "id": "studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793872631.809243,
+        "src": "audio/studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_3.mp3"
+      }
+    ]
+  },
+  {
     "theme": "cacifers_autumnal_windowsill",
     "name": "track_01_golden_tree",
     "prompt": "Warm instrumental cool jazz, 68 BPM, mellow tenor saxophone, soft upright bass and gentle brushed drums. Relaxed steady swing, flowing saxophone melody, warm major seventh harmonies, intimate autumn atmosphere, no vocals.",
