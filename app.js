@@ -50,7 +50,7 @@ function makeRecording(track,index){
   note.setAttribute('aria-label','Listening notes for recording '+index);
   note.value=saved[track.id]?.comment||'';
   note.oninput=()=>{saved[track.id]={...saved[track.id],comment:note.value};save();updateStatus(row,track)};
-  detail.append(audio,meta,ratings,note);
+  detail.append(audio,makeTrimEditor(track,audio),meta,ratings,note);
   row.append(line,detail);
   return row;
 }
@@ -80,19 +80,50 @@ function makePrompt(group){
 }
 fetch('inventory.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
   inventory=data;
-  let theme=null;
+  const themes=new Map();
   let total=0;
   for(const group of data){
-    if(group.theme!==theme){
-      theme=group.theme;
-      catalog.append(element('h2','theme',theme.replaceAll('_',' ')));
-    }
     total+=group.recordings.length;
-    catalog.append(makePrompt(group));
+    if(!themes.has(group.theme)){
+      const section=element('section','theme-section');
+      const toggle=element('button','theme-toggle');
+      toggle.type='button';
+      toggle.setAttribute('aria-expanded','false');
+      const arrow=element('span','chevron','›');
+      const name=element('span','theme-name',group.theme.replaceAll('_',' '));
+      const count=element('span','theme-count');
+      toggle.append(arrow,name,count);
+      const body=element('div','theme-body');
+      toggle.onclick=()=>{
+        const opening=!section.classList.contains('open');
+        section.classList.toggle('open',opening);
+        toggle.setAttribute('aria-expanded',String(opening));
+        if(!opening&&activeRow&&section.contains(activeRow)){
+          activeAudio?.pause();
+          activeRow.classList.remove('active');
+          activeRow=null;
+          activeAudio=null;
+        }
+      };
+      section.append(toggle,body);
+      catalog.append(section);
+      themes.set(group.theme,{body,count,prompts:0,recordings:0});
+    }
+    const entry=themes.get(group.theme);
+    entry.prompts++;
+    entry.recordings+=group.recordings.length;
+    entry.body.append(makePrompt(group));
+  }
+  for(const entry of themes.values()){
+    entry.count.textContent=entry.prompts+' prompts · '+entry.recordings+' recordings';
   }
   document.querySelector('#summary').textContent=data.length+' prompts / '+total+' recordings';
 }).catch(error=>catalog.textContent='Could not load inventory: '+error.message);
 document.querySelector('#collapse-all').onclick=()=>{
+  document.querySelectorAll('.theme-section.open').forEach(section=>{
+    section.classList.remove('open');
+    section.querySelector('.theme-toggle').setAttribute('aria-expanded','false');
+  });
   document.querySelectorAll('.prompt.open').forEach(section=>{
     section.classList.remove('open');
     section.querySelector('.prompt-toggle').setAttribute('aria-expanded','false');

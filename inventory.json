@@ -455,12 +455,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_01_saturday_kitchen_wakes_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_01_saturday_kitchen_wakes_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_01_saturday_kitchen_wakes_1.mp3"
       }
     ]
   },
@@ -486,12 +480,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_02_hormus_knows_noodles_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_02_hormus_knows_noodles_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_02_hormus_knows_noodles_1.mp3"
       }
     ]
   },
@@ -517,12 +505,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_03_seventeen_minutes_one_noodle_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_03_seventeen_minutes_one_noodle_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_03_seventeen_minutes_one_noodle_1.mp3"
       }
     ]
   },
@@ -548,12 +530,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_04_silas_noodle_supervisor_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_04_silas_noodle_supervisor_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_04_silas_noodle_supervisor_1.mp3"
       }
     ]
   },
@@ -579,12 +555,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_05_osi_tastes_one_noodle_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_05_osi_tastes_one_noodle_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_05_osi_tastes_one_noodle_1.mp3"
       }
     ]
   },
@@ -610,12 +580,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_06_sunday_somyeon_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_06_sunday_somyeon_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_06_sunday_somyeon_1.mp3"
       }
     ]
   },
@@ -641,12 +605,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_07_cabbage_and_mushrooms_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_07_cabbage_and_mushrooms_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_07_cabbage_and_mushrooms_1.mp3"
       }
     ]
   },
@@ -672,12 +630,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_08_the_missing_olive_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_08_the_missing_olive_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_08_the_missing_olive_1.mp3"
       }
     ]
   },
@@ -703,12 +655,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_09_hazel_guards_breakfast_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_09_hazel_guards_breakfast_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_09_hazel_guards_breakfast_1.mp3"
       }
     ]
   },
@@ -734,12 +680,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_10_the_dough_is_rising_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_10_the_dough_is_rising_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_10_the_dough_is_rising_1.mp3"
       }
     ]
   },
@@ -765,12 +705,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_11_one_rise_no_disturbance_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_11_one_rise_no_disturbance_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_11_one_rise_no_disturbance_1.mp3"
       }
     ]
   },
@@ -796,632 +730,6 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793619306.0300748,
         "src": "audio/studio_batch_e22eaa2e3f2346f1_track_12_hormus_sunday_loaf_3.mp3"
-      },
-      {
-        "id": "studio_batch_b47a0f5726804cea_track_12_hormus_sunday_loaf_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793701328.2481542,
-        "src": "audio/studio_batch_b47a0f5726804cea_track_12_hormus_sunday_loaf_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_01_the_hidden_cemetery",
-    "prompt": "Romantic classical chamber instrumental, 68 BPM, expressive solo cello with warm piano accompaniment. Flowing minor-key melody, rich sustained cello tones, gentle harmonic movement, solemn autumn atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_01_the_hidden_cemetery_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_01_the_hidden_cemetery_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_02_beneath_enormous_trees",
-    "prompt": "Classical string ensemble, 72 BPM, lyrical violins, warm violas and deep cellos. Broad legato melody, rich minor harmonies, measured rhythmic movement, restrained orchestral dynamics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_02_beneath_enormous_trees_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_02_beneath_enormous_trees_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_03_rust_copper_and_gold",
-    "prompt": "Romantic classical instrumental, 76 BPM, expressive solo violin with warm piano accompaniment. Sweeping lyrical melody, rich major-minor harmonies, elegant phrasing, warm resonant acoustic sound, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_03_rust_copper_and_gold_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_03_rust_copper_and_gold_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_04_a_fox_in_the_shadows",
-    "prompt": "Dark classical chamber music, 66 BPM, low solo cello and soft piano accompaniment. Expressive descending melody, sustained minor harmonies, gentle rhythmic pulse, mysterious intimate atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_04_a_fox_in_the_shadows_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_04_a_fox_in_the_shadows_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_05_paws_among_fallen_leaves",
-    "prompt": "Light classical string quartet, 84 BPM, delicate violins, viola and pizzicato cello. Graceful repeating melody, gentle rhythmic movement, subtle staccato accents, warm chamber acoustics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_05_paws_among_fallen_leaves_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_05_paws_among_fallen_leaves_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_06_the_old_wooden_cross",
-    "prompt": "Solemn romantic classical instrumental, 60 BPM, deep expressive cello with sustained string accompaniment. Slow lyrical phrases, rich minor harmonies, gradual dynamic swells, spacious resonant sound, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_06_the_old_wooden_cross_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_06_the_old_wooden_cross_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_07_one_graceful_jump",
-    "prompt": "Elegant classical chamber music, 92 BPM, bright solo violin with piano accompaniment. Light ascending melody, graceful rhythmic accents, flowing major-key harmonies, controlled lively dynamics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_07_one_graceful_jump_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_07_one_graceful_jump_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_07_one_graceful_jump_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_07_one_graceful_jump_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_07_one_graceful_jump_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_07_one_graceful_jump_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_07_one_graceful_jump_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_07_one_graceful_jump_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_08_the_stranger_stops",
-    "prompt": "Intimate romantic classical instrumental, 64 BPM, warm solo cello and gentle piano. Sustained lyrical melody, steady measured pulse, subtle harmonic tension, restrained dynamics, natural chamber recording, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_08_the_stranger_stops_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_08_the_stranger_stops_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_08_the_stranger_stops_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_08_the_stranger_stops_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_08_the_stranger_stops_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_08_the_stranger_stops_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_08_the_stranger_stops_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_08_the_stranger_stops_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_09_neither_runs_away",
-    "prompt": "Tender classical string ensemble, 68 BPM, expressive violins, warm violas and deep cellos. Gentle legato melody, rich minor-to-major harmonies, steady flowing rhythm, intimate restrained dynamics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_09_neither_runs_away_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_09_neither_runs_away_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_09_neither_runs_away_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_09_neither_runs_away_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_09_neither_runs_away_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_09_neither_runs_away_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_09_neither_runs_away_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_09_neither_runs_away_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_10_the_breeze_in_her_tail",
-    "prompt": "Delicate romantic classical instrumental, 74 BPM, lyrical solo violin with soft string accompaniment. Flowing melodic phrases, gentle rising and falling dynamics, warm major harmonies, airy chamber acoustics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_10_the_breeze_in_her_tail_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_10_the_breeze_in_her_tail_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_11_golden_light_on_old_stones",
-    "prompt": "Rich romantic orchestral instrumental, 70 BPM, expressive cello section, lyrical violins and warm French horns. Broad sustained melody, deep harmonic movement, gradual orchestral swells, noble autumn atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_11_golden_light_on_old_stones_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_11_golden_light_on_old_stones_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "red_fox_in_dusk_graveyard",
-    "name": "track_12_the_hour_between_gold_and_shadow",
-    "prompt": "Romantic classical string orchestra, 62 BPM, deep cellos, expressive violins and warm violas. Slow flowing minor-key melody, rich sustained harmonies, gentle crescendo followed by a soft resolution, solemn intimate atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_1.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_2.mp3"
-      },
-      {
-        "id": "studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793872631.809243,
-        "src": "audio/studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_3.mp3"
-      },
-      {
-        "id": "studio_batch_ee2b573cc3b84f2f_track_12_the_hour_between_gold_and_shadow_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793873629.990318,
-        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_12_the_hour_between_gold_and_shadow_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_01_golden_tree",
-    "prompt": "Warm instrumental cool jazz, 68 BPM, mellow tenor saxophone, soft upright bass and gentle brushed drums. Relaxed steady swing, flowing saxophone melody, warm major seventh harmonies, intimate autumn atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_01_golden_tree_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_01_golden_tree_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_01_golden_tree_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_01_golden_tree_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_01_golden_tree_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_01_golden_tree_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_01_golden_tree_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_01_golden_tree_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_02_one_falling_leaf",
-    "prompt": "Gentle instrumental slow swing jazz, 64 BPM, soft tenor saxophone, warm upright bass and delicate brushed drums. Smooth descending melodic phrases, continuous relaxed pulse, subtle harmonic movement, wistful peaceful mood, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_02_one_falling_leaf_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_02_one_falling_leaf_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_03_the_blue_cup",
-    "prompt": "Cozy instrumental lounge jazz, 72 BPM, mellow alto saxophone, warm electric piano, soft bass and brushed percussion. Gentle steady groove, playful repeating saxophone motif, mellow major harmonies, intimate natural sound, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_03_the_blue_cup_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_03_the_blue_cup_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_03_the_blue_cup_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_03_the_blue_cup_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_03_the_blue_cup_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_03_the_blue_cup_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_03_the_blue_cup_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_03_the_blue_cup_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_04_a_paw_on_the_windowsill",
-    "prompt": "Minimal instrumental cool jazz, 66 BPM, warm tenor saxophone, rounded upright bass and soft brushed drums. Relaxed continuous swing, short expressive melodic phrases, restrained dynamics, subtle blues harmonies, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_04_a_paw_on_the_windowsill_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_04_a_paw_on_the_windowsill_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_05_watching_the_rain",
-    "prompt": "Atmospheric instrumental smooth jazz, 70 BPM, breathy tenor saxophone, warm electric piano and deep mellow bass. Gentle steady groove, flowing descending melody, rich minor seventh harmonies, soft spacious production, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_05_watching_the_rain_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_05_watching_the_rain_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_05_watching_the_rain_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_05_watching_the_rain_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_05_watching_the_rain_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_05_watching_the_rain_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_05_watching_the_rain_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_05_watching_the_rain_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_06_the_long_pause",
-    "prompt": "Quiet instrumental cool jazz, 62 BPM, mellow tenor saxophone, soft upright bass and delicate brushed drums. Slow continuous swing, simple repeating melodic motif, gentle sustained notes, restrained dynamics, intimate peaceful atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_06_the_long_pause_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_06_the_long_pause_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_06_the_long_pause_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_06_the_long_pause_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_06_the_long_pause_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_06_the_long_pause_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_06_the_long_pause_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_06_the_long_pause_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_07_almost_asleep",
-    "prompt": "Sleepy instrumental lounge jazz, 65 BPM, soft alto saxophone, warm electric piano and mellow bass. Slow hypnotic groove, gently descending saxophone melody, smooth harmonic transitions, delicate dynamics, cozy drowsy atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_07_almost_asleep_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_07_almost_asleep_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_07_almost_asleep_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_07_almost_asleep_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_07_almost_asleep_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_07_almost_asleep_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_07_almost_asleep_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_07_almost_asleep_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "cacifers_autumnal_windowsill",
-    "name": "track_08_last_light_in_the_leaves",
-    "prompt": "Warm instrumental smooth jazz, 74 BPM, expressive tenor saxophone, mellow electric piano, rounded bass and soft brushed drums. Relaxed steady groove, flowing lyrical melody, rich major seventh harmonies, gentle harmonic resolution, nostalgic golden autumn atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_1.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_2.mp3"
-      },
-      {
-        "id": "studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1793869200.897156,
-        "src": "audio/studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_3.mp3"
-      },
-      {
-        "id": "studio_batch_a849852ebf214c9a_track_08_last_light_in_the_leaves_1",
-        "model": "ACE-Step 1.5 · LM+SFT",
-        "timestamp": 1793871223.173205,
-        "src": "audio/studio_batch_a849852ebf214c9a_track_08_last_light_in_the_leaves_1.mp3"
       }
     ]
   }
