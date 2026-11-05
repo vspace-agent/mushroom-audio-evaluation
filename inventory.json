@@ -1424,5 +1424,230 @@
         "src": "audio/studio_batch_a849852ebf214c9a_track_08_last_light_in_the_leaves_1.mp3"
       }
     ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_01_the_afternoon_begins",
+    "prompt": "Warm instrumental vintage café jazz, 74 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed swing groove, graceful melodic phrases, warm major seventh harmonies, intimate acoustic recording, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_01_the_afternoon_begins_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_01_the_afternoon_begins_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_01_the_afternoon_begins_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_01_the_afternoon_begins_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_01_the_afternoon_begins_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_01_the_afternoon_begins_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_02_the_gentleman_and_his_newspaper",
+    "prompt": "Elegant instrumental cool jazz, 78 BPM, expressive tenor saxophone, soft jazz piano and walking upright bass. Unhurried swing rhythm, sophisticated melodic phrasing, subtle blues harmonies, polished 1950s jazz club atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_02_the_gentleman_and_his_newspaper_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_02_the_gentleman_and_his_newspaper_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_02_the_gentleman_and_his_newspaper_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_02_the_gentleman_and_his_newspaper_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_02_the_gentleman_and_his_newspaper_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_02_the_gentleman_and_his_newspaper_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_03_the_cat_favourite_chair",
+    "prompt": "Playful instrumental swing jazz, 86 BPM, warm alto saxophone, upright bass and light brushed drums. Short descending saxophone motifs, gentle syncopation, relaxed bouncing groove, mellow harmonies, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_03_the_cat_favourite_chair_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_03_the_cat_favourite_chair_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_03_the_cat_favourite_chair_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_03_the_cat_favourite_chair_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_03_the_cat_favourite_chair_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_03_the_cat_favourite_chair_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_04_the_lady_in_red",
+    "prompt": "Elegant instrumental French café jazz, 82 BPM, lyrical violin, warm acoustic guitar and upright bass. Graceful flowing melody, light rhythmic swing, romantic major-minor harmonies, intimate vintage acoustic sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_04_the_lady_in_red_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_04_the_lady_in_red_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_04_the_lady_in_red_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_04_the_lady_in_red_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_04_the_lady_in_red_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_04_the_lady_in_red_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_05_a_chair_for_a_deer",
+    "prompt": "Whimsical instrumental chamber jazz, 88 BPM, expressive clarinet, pizzicato double bass and light piano accompaniment. Playful staccato melody, gentle rhythmic accents, warm chromatic harmonies, steady swinging pulse, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_05_a_chair_for_a_deer_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_05_a_chair_for_a_deer_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_05_a_chair_for_a_deer_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_05_a_chair_for_a_deer_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_05_a_chair_for_a_deer_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_05_a_chair_for_a_deer_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_06_antlers_and_antique_furniture",
+    "prompt": "Light instrumental classical chamber music, 76 BPM, lyrical solo violin, warm cello and gentle piano. Elegant measured rhythm, playful ascending phrases, graceful harmonic movement, delicate dynamics, natural chamber acoustics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_06_antlers_and_antique_furniture_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_06_antlers_and_antique_furniture_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_06_antlers_and_antique_furniture_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_06_antlers_and_antique_furniture_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_06_antlers_and_antique_furniture_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_06_antlers_and_antique_furniture_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_07_the_little_demons_coffee",
+    "prompt": "Playful instrumental cool jazz, 80 BPM, mellow alto saxophone, plucked upright bass and soft brushed drums. Short repeating melodic phrases, gentle bluesy harmonies, light syncopation, warm intimate atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_07_the_little_demons_coffee_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_07_the_little_demons_coffee_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_07_the_little_demons_coffee_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_07_the_little_demons_coffee_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_07_the_little_demons_coffee_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_07_the_little_demons_coffee_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_08_the_unreachable_cup",
+    "prompt": "Gentle instrumental jazz, 70 BPM, expressive tenor saxophone, warm electric piano and deep mellow bass. Slow continuous groove, small ascending melodic motifs, subtle harmonic tension and release, restrained dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_08_the_unreachable_cup_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_08_the_unreachable_cup_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_08_the_unreachable_cup_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_08_the_unreachable_cup_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_08_the_unreachable_cup_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_08_the_unreachable_cup_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "chairs_multicultural_coffee_shop",
+    "name": "track_09_an_unexpected_neighbour",
+    "prompt": "Tender instrumental chamber jazz, 68 BPM, warm tenor saxophone, soft upright bass and delicate brushed drums. Gentle steady swing, flowing affectionate melody, rich major seventh harmonies, gradual soft resolution, intimate peaceful café atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_09_an_unexpected_neighbour_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_09_an_unexpected_neighbour_1.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_09_an_unexpected_neighbour_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_09_an_unexpected_neighbour_2.mp3"
+      },
+      {
+        "id": "studio_batch_e1fe8fee1dbb4ce7_track_09_an_unexpected_neighbour_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793881506.2816331,
+        "src": "audio/studio_batch_e1fe8fee1dbb4ce7_track_09_an_unexpected_neighbour_3.mp3"
+      }
+    ]
   }
 ]
