@@ -827,6 +827,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_01_the_hidden_cemetery_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_01_the_hidden_cemetery_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_01_the_hidden_cemetery_1.mp3"
       }
     ]
   },
@@ -852,6 +858,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_02_beneath_enormous_trees_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_02_beneath_enormous_trees_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_02_beneath_enormous_trees_1.mp3"
       }
     ]
   },
@@ -877,6 +889,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_03_rust_copper_and_gold_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_03_rust_copper_and_gold_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_03_rust_copper_and_gold_1.mp3"
       }
     ]
   },
@@ -902,6 +920,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_04_a_fox_in_the_shadows_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_04_a_fox_in_the_shadows_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_04_a_fox_in_the_shadows_1.mp3"
       }
     ]
   },
@@ -927,6 +951,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_05_paws_among_fallen_leaves_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_05_paws_among_fallen_leaves_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_05_paws_among_fallen_leaves_1.mp3"
       }
     ]
   },
@@ -952,6 +982,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_06_the_old_wooden_cross_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_06_the_old_wooden_cross_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_06_the_old_wooden_cross_1.mp3"
       }
     ]
   },
@@ -977,6 +1013,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_07_one_graceful_jump_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_07_one_graceful_jump_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_07_one_graceful_jump_1.mp3"
       }
     ]
   },
@@ -1002,6 +1044,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_08_the_stranger_stops_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_08_the_stranger_stops_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_08_the_stranger_stops_1.mp3"
       }
     ]
   },
@@ -1027,6 +1075,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_09_neither_runs_away_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_09_neither_runs_away_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_09_neither_runs_away_1.mp3"
       }
     ]
   },
@@ -1052,6 +1106,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_10_the_breeze_in_her_tail_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_10_the_breeze_in_her_tail_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_10_the_breeze_in_her_tail_1.mp3"
       }
     ]
   },
@@ -1077,6 +1137,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_11_golden_light_on_old_stones_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_11_golden_light_on_old_stones_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_11_golden_light_on_old_stones_1.mp3"
       }
     ]
   },
@@ -1102,6 +1168,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793872631.809243,
         "src": "audio/studio_batch_110f881de23b4d24_track_12_the_hour_between_gold_and_shadow_3.mp3"
+      },
+      {
+        "id": "studio_batch_ee2b573cc3b84f2f_track_12_the_hour_between_gold_and_shadow_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793873629.990318,
+        "src": "audio/studio_batch_ee2b573cc3b84f2f_track_12_the_hour_between_gold_and_shadow_1.mp3"
       }
     ]
   },
