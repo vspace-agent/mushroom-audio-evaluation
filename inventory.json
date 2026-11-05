@@ -827,6 +827,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_01_golden_tree_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_01_golden_tree_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_01_golden_tree_1.mp3"
       }
     ]
   },
@@ -852,6 +858,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_02_one_falling_leaf_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_02_one_falling_leaf_1.mp3"
       }
     ]
   },
@@ -877,6 +889,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_03_the_blue_cup_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_03_the_blue_cup_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_03_the_blue_cup_1.mp3"
       }
     ]
   },
@@ -902,6 +920,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_04_a_paw_on_the_windowsill_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_04_a_paw_on_the_windowsill_1.mp3"
       }
     ]
   },
@@ -927,6 +951,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_05_watching_the_rain_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_05_watching_the_rain_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_05_watching_the_rain_1.mp3"
       }
     ]
   },
@@ -952,6 +982,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_06_the_long_pause_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_06_the_long_pause_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_06_the_long_pause_1.mp3"
       }
     ]
   },
@@ -977,6 +1013,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_07_almost_asleep_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_07_almost_asleep_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_07_almost_asleep_1.mp3"
       }
     ]
   },
@@ -1002,6 +1044,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793869200.897156,
         "src": "audio/studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_3.mp3"
+      },
+      {
+        "id": "studio_batch_a849852ebf214c9a_track_08_last_light_in_the_leaves_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793871223.173205,
+        "src": "audio/studio_batch_a849852ebf214c9a_track_08_last_light_in_the_leaves_1.mp3"
       }
     ]
   }
