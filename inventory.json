@@ -804,5 +804,205 @@
         "src": "audio/studio_batch_b47a0f5726804cea_track_12_hormus_sunday_loaf_1.mp3"
       }
     ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_01_golden_tree",
+    "prompt": "Warm instrumental cool jazz, 68 BPM, mellow tenor saxophone, soft upright bass and gentle brushed drums. Relaxed steady swing, flowing saxophone melody, warm major seventh harmonies, intimate autumn atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_01_golden_tree_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_01_golden_tree_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_01_golden_tree_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_01_golden_tree_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_01_golden_tree_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_01_golden_tree_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_02_one_falling_leaf",
+    "prompt": "Gentle instrumental slow swing jazz, 64 BPM, soft tenor saxophone, warm upright bass and delicate brushed drums. Smooth descending melodic phrases, continuous relaxed pulse, subtle harmonic movement, wistful peaceful mood, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_02_one_falling_leaf_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_03_the_blue_cup",
+    "prompt": "Cozy instrumental lounge jazz, 72 BPM, mellow alto saxophone, warm electric piano, soft bass and brushed percussion. Gentle steady groove, playful repeating saxophone motif, mellow major harmonies, intimate natural sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_03_the_blue_cup_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_03_the_blue_cup_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_03_the_blue_cup_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_03_the_blue_cup_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_03_the_blue_cup_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_03_the_blue_cup_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_04_a_paw_on_the_windowsill",
+    "prompt": "Minimal instrumental cool jazz, 66 BPM, warm tenor saxophone, rounded upright bass and soft brushed drums. Relaxed continuous swing, short expressive melodic phrases, restrained dynamics, subtle blues harmonies, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_04_a_paw_on_the_windowsill_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_05_watching_the_rain",
+    "prompt": "Atmospheric instrumental smooth jazz, 70 BPM, breathy tenor saxophone, warm electric piano and deep mellow bass. Gentle steady groove, flowing descending melody, rich minor seventh harmonies, soft spacious production, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_05_watching_the_rain_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_05_watching_the_rain_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_05_watching_the_rain_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_05_watching_the_rain_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_05_watching_the_rain_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_05_watching_the_rain_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_06_the_long_pause",
+    "prompt": "Quiet instrumental cool jazz, 62 BPM, mellow tenor saxophone, soft upright bass and delicate brushed drums. Slow continuous swing, simple repeating melodic motif, gentle sustained notes, restrained dynamics, intimate peaceful atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_06_the_long_pause_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_06_the_long_pause_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_06_the_long_pause_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_06_the_long_pause_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_06_the_long_pause_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_06_the_long_pause_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_07_almost_asleep",
+    "prompt": "Sleepy instrumental lounge jazz, 65 BPM, soft alto saxophone, warm electric piano and mellow bass. Slow hypnotic groove, gently descending saxophone melody, smooth harmonic transitions, delicate dynamics, cozy drowsy atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_07_almost_asleep_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_07_almost_asleep_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_07_almost_asleep_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_07_almost_asleep_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_07_almost_asleep_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_07_almost_asleep_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "cacifers_autumnal_windowsill",
+    "name": "track_08_last_light_in_the_leaves",
+    "prompt": "Warm instrumental smooth jazz, 74 BPM, expressive tenor saxophone, mellow electric piano, rounded bass and soft brushed drums. Relaxed steady groove, flowing lyrical melody, rich major seventh harmonies, gentle harmonic resolution, nostalgic golden autumn atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_1.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_2.mp3"
+      },
+      {
+        "id": "studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1793869200.897156,
+        "src": "audio/studio_batch_6fd337f668454fbf_track_08_last_light_in_the_leaves_3.mp3"
+      }
+    ]
   }
 ]
