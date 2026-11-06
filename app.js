@@ -117,6 +117,13 @@ function makePrompt(group){
 }
 fetch('inventory.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r.json()}).then(data=>{
   inventory=data;
+  // Newest theme first, using the latest recording generation timestamp in each theme.
+  const themeTimes=new Map();
+  for(const group of data){
+    const newest=Math.max(0,...group.recordings.map(track=>Number(track.timestamp)||0));
+    themeTimes.set(group.theme,Math.max(themeTimes.get(group.theme)||0,newest));
+  }
+  data.sort((a,b)=>(themeTimes.get(b.theme)||0)-(themeTimes.get(a.theme)||0));
   const themes=new Map();
   let total=0;
   for(const group of data){
