@@ -1183,6 +1183,12 @@
     "prompt": "Tense instrumental cool jazz, 68 BPM, breathy tenor saxophone, deep upright bass and soft brushed drums. Slow steady pulse, descending minor melody, restrained dynamics, unresolved harmonies, intimate dark atmosphere, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_1b773da53f054ac5_track_01_the_morning_of_waiting_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_01_the_morning_of_waiting_1.mp3"
+      },
+      {
         "id": "studio_batch_259d8596038841b3_track_01_the_morning_of_waiting_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793955222.3400168,
@@ -1207,6 +1213,12 @@
     "name": "track_02_the_letter_not_yet_opened",
     "prompt": "Atmospheric instrumental downtempo, 65 BPM, intimate electric piano, deep warm bass and restrained brushed percussion. Hypnotic steady groove, repeating minor-key motif, subtle harmonic tension, controlled dynamics, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_1b773da53f054ac5_track_02_the_letter_not_yet_opened_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_02_the_letter_not_yet_opened_1.mp3"
+      },
       {
         "id": "studio_batch_259d8596038841b3_track_02_the_letter_not_yet_opened_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -1233,6 +1245,12 @@
     "prompt": "Dark instrumental modal jazz, 74 BPM, low tenor saxophone, walking upright bass and crisp jazz drums. Insistent rhythmic pulse, angular melodic phrases, dissonant minor harmonies, sharp accents, controlled intensity, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_1b773da53f054ac5_track_03_words_like_cold_metal_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_03_words_like_cold_metal_1.mp3"
+      },
+      {
         "id": "studio_batch_259d8596038841b3_track_03_words_like_cold_metal_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793955222.3400168,
@@ -1257,6 +1275,12 @@
     "name": "track_04_the_first_heartbeat",
     "prompt": "Tense instrumental downtempo jazz, 78 BPM, deep pulsing bass, warm electric piano and soft brushed percussion. Strong regular beat, short repeating piano motif, gradually rising harmonic tension, intimate close production, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_1b773da53f054ac5_track_04_the_first_heartbeat_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_04_the_first_heartbeat_1.mp3"
+      },
       {
         "id": "studio_batch_259d8596038841b3_track_04_the_first_heartbeat_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -1283,6 +1307,12 @@
     "prompt": "Dark instrumental cool jazz, 82 BPM, expressive tenor saxophone, upright bass and restrained brushed drums. Nervous syncopated melody over a steady groove, subtle chromatic movement, minor seventh harmonies, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_1b773da53f054ac5_track_05_the_body_begins_to_shiver_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_05_the_body_begins_to_shiver_1.mp3"
+      },
+      {
         "id": "studio_batch_259d8596038841b3_track_05_the_body_begins_to_shiver_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793955222.3400168,
@@ -1307,6 +1337,12 @@
     "name": "track_06_the_room_becomes_distant",
     "prompt": "Atmospheric instrumental chillout, 60 BPM, warm synthesizer pads, deep rounded bass and soft electronic percussion. Slow continuous pulse, distant repeating electric piano melody, suspended minor harmonies, spacious reverb, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_1b773da53f054ac5_track_06_the_room_becomes_distant_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_06_the_room_becomes_distant_1.mp3"
+      },
       {
         "id": "studio_batch_259d8596038841b3_track_06_the_room_becomes_distant_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -1333,6 +1369,12 @@
     "prompt": "Minimal instrumental downtempo, 64 BPM, muted electric piano, deep soft bass and delicate brushed percussion. Repetitive hypnotic groove, narrow melodic range, restrained dynamics, unresolved minor harmonies, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_1b773da53f054ac5_track_07_the_numbness_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_07_the_numbness_1.mp3"
+      },
+      {
         "id": "studio_batch_259d8596038841b3_track_07_the_numbness_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793955222.3400168,
@@ -1357,6 +1399,12 @@
     "name": "track_08_still_here_beneath_the_fear",
     "prompt": "Warm instrumental soul jazz, 68 BPM, mellow tenor saxophone, rounded upright bass and gentle brushed drums. Steady grounded groove, expressive descending melody, rich minor seventh harmonies, gradual softening of tension, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_1b773da53f054ac5_track_08_still_here_beneath_the_fear_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_08_still_here_beneath_the_fear_1.mp3"
+      },
       {
         "id": "studio_batch_259d8596038841b3_track_08_still_here_beneath_the_fear_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -1383,6 +1431,12 @@
     "prompt": "Reflective instrumental cool jazz, 72 BPM, warm tenor saxophone, upright bass and soft brushed drums. Measured continuous swing, clear repeating melodic phrases, gentle harmonic progression, restrained confident dynamics, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_1b773da53f054ac5_track_09_one_page_at_a_time_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_09_one_page_at_a_time_1.mp3"
+      },
+      {
         "id": "studio_batch_259d8596038841b3_track_09_one_page_at_a_time_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793955222.3400168,
@@ -1407,6 +1461,12 @@
     "name": "track_10_the_right_to_remain",
     "prompt": "Resolute instrumental romantic chamber music, 76 BPM, expressive solo cello with warm piano accompaniment. Strong measured pulse, sustained lyrical melody, rich minor-to-major harmonies, gradual controlled crescendo, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_1b773da53f054ac5_track_10_the_right_to_remain_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_10_the_right_to_remain_1.mp3"
+      },
       {
         "id": "studio_batch_259d8596038841b3_track_10_the_right_to_remain_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -1433,6 +1493,12 @@
     "prompt": "Warm instrumental modal jazz, 80 BPM, confident tenor saxophone, walking upright bass and steady brushed drums. Firm rhythmic groove, ascending melodic phrases, blues-inflected harmonies, gradual dynamic expansion, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_1b773da53f054ac5_track_11_the_door_is_mine_to_open_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_11_the_door_is_mine_to_open_1.mp3"
+      },
+      {
         "id": "studio_batch_259d8596038841b3_track_11_the_door_is_mine_to_open_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1793955222.3400168,
@@ -1457,6 +1523,12 @@
     "name": "track_12_after_the_shivering",
     "prompt": "Tender instrumental downtempo jazz, 65 BPM, intimate electric piano, deep warm bass and soft brushed percussion. Slow hypnotic pulse, flowing melodic phrases, gentle minor-to-major harmonic movement, quiet resolution, warm natural production, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_1b773da53f054ac5_track_12_after_the_shivering_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1793955920.8634272,
+        "src": "audio/studio_batch_1b773da53f054ac5_track_12_after_the_shivering_1.mp3"
+      },
       {
         "id": "studio_batch_259d8596038841b3_track_12_after_the_shivering_1",
         "model": "ACE-Step 1.5 · Turbo",
