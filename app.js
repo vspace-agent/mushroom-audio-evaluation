@@ -6,54 +6,91 @@ let inventory=[];
 let activeRow=null;
 let activeAudio=null;
 let themePlayback=null;
-function stopThemePlayback(){
-  if(!themePlayback)return;
-  const session=themePlayback;
+let playbackSession=null;
+let playbackToken=0;
+
+function stopPlayback(){
+  playbackToken++;
+  const session=playbackSession;
+  playbackSession=null;
   themePlayback=null;
-  session.button.textContent='▶ Play theme';
-  session.button.setAttribute('aria-pressed','false');
-  session.audio?.pause();
-  if(activeRow&&session.tracks.includes(activeRow))activeRow.classList.remove('active');
-  if(activeAudio===session.audio){activeAudio=null;activeRow=null}
+  if(session?.button){
+    session.button.textContent='▶ Play theme';
+    session.button.setAttribute('aria-pressed','false');
+  }
+  if(activeAudio){
+    activeAudio.pause();
+    activeAudio.onended=null;
+    activeAudio.onerror=null;
+  }
+  activeRow?.classList.remove('active');
+  activeAudio=null;
+  activeRow=null;
 }
-function playThemeNext(session){
-  if(themePlayback!==session)return;
-  if(session.index>=session.tracks.length){stopThemePlayback();return}
-  const track=session.tracks[session.index++];
-  const audio=track.querySelector('audio');
-  if(!audio){playThemeNext(session);return}
-  session.audio=audio;
-  if(activeRow&&activeRow!==track)activeRow.classList.remove('active');
-  if(activeAudio&&activeAudio!==audio)activeAudio.pause();
+
+function stopThemePlayback(){stopPlayback()}
+
+function playNext(session){
+  if(playbackSession!==session)return;
+  if(session.index>=session.tracks.length){stopPlayback();return}
+  const row=session.tracks[session.index++];
+  const audio=row.querySelector('audio');
+  if(!audio){playNext(session);return}
+  if(activeAudio&&activeAudio!==audio){
+    activeAudio.pause();
+    activeAudio.onended=null;
+    activeAudio.onerror=null;
+  }
+  activeRow?.classList.remove('active');
+  activeRow=row;
   activeAudio=audio;
-  activeRow=track;
-  track.classList.add('active');
-  track.closest('.prompt')?.classList.add('open');
-  const promptToggle=track.closest('.prompt')?.querySelector('.prompt-toggle');
-  promptToggle?.setAttribute('aria-expanded','true');
-  audio.currentTime=0;
-  audio.onended=()=>{
-    if(themePlayback!==session)return;
-    track.classList.remove('active');
-    if(activeRow===track){activeRow=null;activeAudio=null}
-    playThemeNext(session);
+  row.classList.add('active');
+  for(const section of [row.closest('.theme-section'),row.closest('.prompt')]){
+    section?.classList.add('open');
+    section?.querySelector(':scope > .theme-header > .theme-toggle, :scope > .prompt-toggle')?.setAttribute('aria-expanded','true');
+  }
+  const token=++playbackToken;
+  let advanced=false;
+  const advance=()=>{
+    if(advanced||playbackSession!==session||playbackToken!==token)return;
+    advanced=true;
+    row.classList.remove('active');
+    playNext(session);
   };
-  audio.play().catch(()=>stopThemePlayback());
+  audio.onended=advance;
+  audio.onerror=advance;
+  try{
+    audio.currentTime=0;
+    const result=audio.play();
+    if(result&&typeof result.catch==='function')result.catch(advance);
+  }catch(error){advance()}
 }
+
+function startPlayback(tracks,button=null){
+  stopPlayback();
+  if(!tracks.length)return;
+  const session={tracks,index:0,button};
+  playbackSession=session;
+  if(button){
+    themePlayback=session;
+    button.textContent='■ Stop theme';
+    button.setAttribute('aria-pressed','true');
+  }
+  playNext(session);
+}
+
+function playThemeNext(session){playNext(session)}
 const catalog=document.querySelector('#catalog');
 function save(){localStorage.setItem(storageKey,JSON.stringify(saved))}
 function element(tag,className,text){const node=document.createElement(tag);if(className)node.className=className;if(text!==undefined)node.textContent=text;return node}
 function status(track){const entry=saved[track.id];return entry&&(entry.rating!==undefined||entry.comment?.trim())?'● evaluated':''}
 function updateStatus(row,track){row.querySelector('.track-state').textContent=status(track)}
 function openRecording(row,audio,track){
-  stopThemePlayback();
-  if(activeRow&&activeRow!==row){activeRow.classList.remove('active');if(activeAudio)activeAudio.pause()}
-  const wasOpen=row.classList.contains('active');
-  row.classList.toggle('active',!wasOpen);
-  activeRow=wasOpen?null:row;
-  activeAudio=wasOpen?null:audio;
-  if(wasOpen){audio.pause();return}
-  audio.play().catch(()=>{});
+  if(activeRow===row){stopPlayback();return}
+  const tracks=Array.from(catalog.querySelectorAll('.recording'));
+  const index=tracks.indexOf(row);
+  if(index<0)return;
+  startPlayback(tracks.slice(index));
 }
 function makeRecording(track,index){
   const row=element('div','recording');
@@ -67,7 +104,13 @@ function makeRecording(track,index){
   const detail=element('div','track-detail');
   const audio=element('audio');
   audio.controls=true;audio.preload='none';audio.src=track.src;
-  audio.addEventListener('play',()=>{play.textContent='Ⅱ'});
+  audio.addEventListener('play',()=>{
+    play.textContent='Ⅱ';
+    if(activeAudio===audio&&playbackSession)return;
+    const tracks=Array.from(catalog.querySelectorAll('.recording'));
+    const index=tracks.indexOf(row);
+    if(index>=0)startPlayback(tracks.slice(index));
+  });
   audio.addEventListener('pause',()=>{play.textContent='▶'});
   audio.addEventListener('ended',()=>{play.textContent='▶'});
   play.onclick=()=>openRecording(row,audio,track);
@@ -107,10 +150,7 @@ function makePrompt(group){
     const opening=!section.classList.contains('open');
     section.classList.toggle('open',opening);
     toggle.setAttribute('aria-expanded',String(opening));
-    if(!opening&&themePlayback?.tracks.some(row=>section.contains(row)))stopThemePlayback();
-    if(!opening&&activeRow&&section.contains(activeRow)){
-      activeAudio?.pause();activeRow.classList.remove('active');activeRow=null;activeAudio=null;
-    }
+
   };
   section.append(toggle,body);
   return section;
@@ -135,29 +175,17 @@ fetch('inventory.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r
       playAll.setAttribute('aria-pressed','false');
       playAll.onclick=()=>{
         if(themePlayback?.button===playAll){stopThemePlayback();return}
-        stopThemePlayback();
         const tracks=Array.from(body.querySelectorAll('.recording'));
         if(!tracks.length)return;
         section.classList.add('open');
         toggle.setAttribute('aria-expanded','true');
-        const session={button:playAll,tracks,index:0,audio:null};
-        themePlayback=session;
-        playAll.textContent='■ Stop theme';
-        playAll.setAttribute('aria-pressed','true');
-        playThemeNext(session);
+        startPlayback(tracks,playAll);
       };
       const body=element('div','theme-body');
       toggle.onclick=()=>{
         const opening=!section.classList.contains('open');
         section.classList.toggle('open',opening);
         toggle.setAttribute('aria-expanded',String(opening));
-        if(!opening&&themePlayback?.button===playAll)stopThemePlayback();
-        if(!opening&&activeRow&&section.contains(activeRow)){
-          activeAudio?.pause();
-          activeRow.classList.remove('active');
-          activeRow=null;
-          activeAudio=null;
-        }
       };
       const header=element('div','theme-header');
       header.append(toggle,playAll);
@@ -170,8 +198,16 @@ fetch('inventory.json').then(r=>{if(!r.ok)throw Error('HTTP '+r.status);return r
     entry.recordings+=group.recordings.length;
     entry.body.append(makePrompt(group));
   }
-  for(const entry of themes.values()){
+  const latestByTheme=new Map();
+  for(const group of data){
+    const latest=Math.max(0,...group.recordings.map(track=>Number(track.timestamp)||0));
+    latestByTheme.set(group.theme,Math.max(latestByTheme.get(group.theme)||0,latest));
+  }
+  const ordered=Array.from(themes.entries()).sort((a,b)=>
+    (latestByTheme.get(b[0])||0)-(latestByTheme.get(a[0])||0));
+  for(const [name,entry] of ordered){
     entry.count.textContent=entry.prompts+' prompts · '+entry.recordings+' recordings';
+    catalog.append(entry.body.closest('.theme-section'));
   }
   document.querySelector('#summary').textContent=data.length+' prompts / '+total+' recordings';
 }).catch(error=>catalog.textContent='Could not load inventory: '+error.message);
