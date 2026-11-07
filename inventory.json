@@ -2981,6 +2981,12 @@
     "prompt": "Gentle instrumental cool jazz, 72 BPM, mellow tenor saxophone, warm upright bass and soft brushed drums. Relaxed flowing groove, curious ascending melodic phrases, subtle blues harmonies, intimate acoustic sound, quiet sense of discovery, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_ddc2260149fa4d3e_track_01_a_stranger_beneath_the_surface_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794067619.55232,
+        "src": "audio/studio_batch_ddc2260149fa4d3e_track_01_a_stranger_beneath_the_surface_1.mp3"
+      },
+      {
         "id": "studio_batch_e62475e824974e5f_track_01_a_stranger_beneath_the_surface_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794065277.717056,
@@ -3005,6 +3011,12 @@
     "name": "track_02_the_boat_and_the_water",
     "prompt": "Playful instrumental chamber music, 84 BPM, expressive solo violin, warm cello and gentle piano. Two contrasting melodic motifs, one light and bouncing, the other smooth and flowing. Graceful rhythmic movement, warm major harmonies, delicate dynamics, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_ddc2260149fa4d3e_track_02_the_boat_and_the_water_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794067619.55232,
+        "src": "audio/studio_batch_ddc2260149fa4d3e_track_02_the_boat_and_the_water_1.mp3"
+      },
       {
         "id": "studio_batch_e62475e824974e5f_track_02_the_boat_and_the_water_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3031,6 +3043,12 @@
     "prompt": "Warm instrumental chamber jazz, 78 BPM, lyrical clarinet, soft acoustic piano and upright bass. Short questioning clarinet phrases answered by gentle piano motifs, relaxed steady swing, playful melodic dialogue, tender curiosity, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_ddc2260149fa4d3e_track_03_can_you_see_me_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794067619.55232,
+        "src": "audio/studio_batch_ddc2260149fa4d3e_track_03_can_you_see_me_1.mp3"
+      },
+      {
         "id": "studio_batch_e62475e824974e5f_track_03_can_you_see_me_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794065277.717056,
@@ -3056,6 +3074,12 @@
     "prompt": "Cheerful instrumental swing jazz, 96 BPM, bright alto saxophone, walking upright bass and light brushed drums. Playful call-and-response melodies, bouncing syncopation, small rhythmic surprises, joyful major seventh harmonies, lively but gentle dynamics, no vocals.",
     "recordings": [
       {
+        "id": "studio_batch_ddc2260149fa4d3e_track_04_a_game_between_two_worlds_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794067619.55232,
+        "src": "audio/studio_batch_ddc2260149fa4d3e_track_04_a_game_between_two_worlds_1.mp3"
+      },
+      {
         "id": "studio_batch_e62475e824974e5f_track_04_a_game_between_two_worlds_1",
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794065277.717056,
@@ -3080,6 +3104,12 @@
     "name": "track_05_the_same_little_adventure",
     "prompt": "Tender instrumental downtempo jazz, 68 BPM, warm electric piano, mellow tenor saxophone, deep rounded bass and soft brushed percussion. Two simple melodies gradually intertwine over a steady relaxed groove, gentle minor-to-major harmonies, affectionate musical dialogue, peaceful resolution, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_ddc2260149fa4d3e_track_05_the_same_little_adventure_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794067619.55232,
+        "src": "audio/studio_batch_ddc2260149fa4d3e_track_05_the_same_little_adventure_1.mp3"
+      },
       {
         "id": "studio_batch_e62475e824974e5f_track_05_the_same_little_adventure_1",
         "model": "ACE-Step 1.5 · Turbo",
