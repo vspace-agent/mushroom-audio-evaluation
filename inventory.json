@@ -1550,6 +1550,378 @@
     ]
   },
   {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_01_the_rabbit_and_eternal_autumn",
+    "prompt": "Warm instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and gentle brushed drums. Relaxed flowing swing, lyrical melody, rich major seventh harmonies, nostalgic golden atmosphere, intimate acoustic sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_01_the_rabbit_and_eternal_autumn_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_01_the_rabbit_and_eternal_autumn_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_02_a_cold_among_golden_leaves",
+    "prompt": "Tender instrumental chamber music, 66 BPM, expressive solo cello and soft piano accompaniment. Gentle descending melody, warm minor harmonies, measured rhythmic pulse, delicate dynamics, intimate natural recording, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_02_a_cold_among_golden_leaves_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_02_a_cold_among_golden_leaves_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_03_the_long_unquiet_nights",
+    "prompt": "Atmospheric instrumental downtempo, 62 BPM, warm electric piano, deep soft bass and restrained brushed percussion. Slow hypnotic groove, repeating minor-key melody, subtle harmonic tension, dark intimate production, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_03_the_long_unquiet_nights_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_03_the_long_unquiet_nights_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_04_when_the_mind_grows_tired",
+    "prompt": "Reflective instrumental modal jazz, 68 BPM, breathy tenor saxophone, upright bass and delicate brushed drums. Continuous relaxed pulse, narrow descending melodic phrases, suspended minor seventh harmonies, restrained dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_04_when_the_mind_grows_tired_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_04_when_the_mind_grows_tired_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_05_the_window_full_of_autumn",
+    "prompt": "Romantic classical string ensemble, 70 BPM, lyrical violins, warm violas and deep cellos. Flowing legato melody, rich minor-to-major harmonies, gentle orchestral swells, wistful autumn atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_05_the_window_full_of_autumn_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_05_the_window_full_of_autumn_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_06_a_small_suitcase",
+    "prompt": "Gentle instrumental acoustic folk, 78 BPM, warm fingerpicked acoustic guitar and soft upright bass. Simple repeating melody, steady relaxed rhythm, mellow major harmonies, delicate dynamics, intimate natural sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_06_a_small_suitcase_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_06_a_small_suitcase_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_07_the_road_to_his_twin",
+    "prompt": "Warm instrumental soul jazz, 82 BPM, expressive tenor saxophone, rounded bass and soft brushed drums. Steady forward-moving groove, gently ascending melodic phrases, rich seventh chords, hopeful restrained energy, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_07_the_road_to_his_twin_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_07_the_road_to_his_twin_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_08_two_rabbits_at_the_door",
+    "prompt": "Tender instrumental classical chamber music, 74 BPM, expressive solo violin and warm piano accompaniment. Flowing lyrical melody, gentle major-key harmonies, graceful rhythmic movement, intimate resonant acoustics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_08_two_rabbits_at_the_door_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_08_two_rabbits_at_the_door_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_09_the_house_that_remembers_him",
+    "prompt": "Cozy instrumental lounge jazz, 70 BPM, mellow tenor saxophone, soft electric piano, rounded bass and gentle brushed drums. Relaxed continuous groove, affectionate repeating melody, warm major seventh harmonies, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_09_the_house_that_remembers_him_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_09_the_house_that_remembers_him_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_10_sleeping_beneath_a_familiar_roof",
+    "prompt": "Gentle instrumental downtempo, 60 BPM, intimate electric piano, deep warm bass and soft brushed percussion. Slow steady pulse, simple descending melodic phrases, smooth harmonic movement, delicate dynamics, peaceful production, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_10_sleeping_beneath_a_familiar_roof_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_10_sleeping_beneath_a_familiar_roof_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_11_strength_returns_with_morning",
+    "prompt": "Warm instrumental romantic string orchestra, 80 BPM, expressive violins, rich cellos and warm violas. Broad ascending melody, flowing rhythmic movement, gradual crescendo, luminous major harmonies, controlled orchestral dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_11_strength_returns_with_morning_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_11_strength_returns_with_morning_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_rabbit_who_loved_eternal_autumn",
+    "name": "track_12_returning_to_eternal_autumn",
+    "prompt": "Nostalgic instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed steady swing, lyrical returning melody, rich major seventh harmonies with gentle minor colors, warm intimate sound, peaceful resolution, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_6178cb927d354563_track_12_returning_to_eternal_autumn_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794036429.495842,
+        "src": "audio/studio_batch_6178cb927d354563_track_12_returning_to_eternal_autumn_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_1.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_2.mp3"
+      },
+      {
+        "id": "studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794035690.0176508,
+        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_3.mp3"
+      }
+    ]
+  },
+  {
     "theme": "chairs_multicultural_coffee_shop",
     "name": "track_01_the_afternoon_begins",
     "prompt": "Warm instrumental vintage café jazz, 74 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed swing groove, graceful melodic phrases, warm major seventh harmonies, intimate acoustic recording, no vocals.",
@@ -2073,306 +2445,6 @@
         "model": "ACE-Step 1.5 · LM+SFT",
         "timestamp": 1793871223.173205,
         "src": "audio/studio_batch_a849852ebf214c9a_track_08_last_light_in_the_leaves_1.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_01_the_rabbit_and_eternal_autumn",
-    "prompt": "Warm instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and gentle brushed drums. Relaxed flowing swing, lyrical melody, rich major seventh harmonies, nostalgic golden atmosphere, intimate acoustic sound, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_01_the_rabbit_and_eternal_autumn_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_02_a_cold_among_golden_leaves",
-    "prompt": "Tender instrumental chamber music, 66 BPM, expressive solo cello and soft piano accompaniment. Gentle descending melody, warm minor harmonies, measured rhythmic pulse, delicate dynamics, intimate natural recording, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_02_a_cold_among_golden_leaves_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_03_the_long_unquiet_nights",
-    "prompt": "Atmospheric instrumental downtempo, 62 BPM, warm electric piano, deep soft bass and restrained brushed percussion. Slow hypnotic groove, repeating minor-key melody, subtle harmonic tension, dark intimate production, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_03_the_long_unquiet_nights_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_04_when_the_mind_grows_tired",
-    "prompt": "Reflective instrumental modal jazz, 68 BPM, breathy tenor saxophone, upright bass and delicate brushed drums. Continuous relaxed pulse, narrow descending melodic phrases, suspended minor seventh harmonies, restrained dynamics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_04_when_the_mind_grows_tired_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_05_the_window_full_of_autumn",
-    "prompt": "Romantic classical string ensemble, 70 BPM, lyrical violins, warm violas and deep cellos. Flowing legato melody, rich minor-to-major harmonies, gentle orchestral swells, wistful autumn atmosphere, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_05_the_window_full_of_autumn_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_06_a_small_suitcase",
-    "prompt": "Gentle instrumental acoustic folk, 78 BPM, warm fingerpicked acoustic guitar and soft upright bass. Simple repeating melody, steady relaxed rhythm, mellow major harmonies, delicate dynamics, intimate natural sound, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_06_a_small_suitcase_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_07_the_road_to_his_twin",
-    "prompt": "Warm instrumental soul jazz, 82 BPM, expressive tenor saxophone, rounded bass and soft brushed drums. Steady forward-moving groove, gently ascending melodic phrases, rich seventh chords, hopeful restrained energy, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_07_the_road_to_his_twin_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_08_two_rabbits_at_the_door",
-    "prompt": "Tender instrumental classical chamber music, 74 BPM, expressive solo violin and warm piano accompaniment. Flowing lyrical melody, gentle major-key harmonies, graceful rhythmic movement, intimate resonant acoustics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_08_two_rabbits_at_the_door_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_09_the_house_that_remembers_him",
-    "prompt": "Cozy instrumental lounge jazz, 70 BPM, mellow tenor saxophone, soft electric piano, rounded bass and gentle brushed drums. Relaxed continuous groove, affectionate repeating melody, warm major seventh harmonies, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_09_the_house_that_remembers_him_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_10_sleeping_beneath_a_familiar_roof",
-    "prompt": "Gentle instrumental downtempo, 60 BPM, intimate electric piano, deep warm bass and soft brushed percussion. Slow steady pulse, simple descending melodic phrases, smooth harmonic movement, delicate dynamics, peaceful production, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_10_sleeping_beneath_a_familiar_roof_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_11_strength_returns_with_morning",
-    "prompt": "Warm instrumental romantic string orchestra, 80 BPM, expressive violins, rich cellos and warm violas. Broad ascending melody, flowing rhythmic movement, gradual crescendo, luminous major harmonies, controlled orchestral dynamics, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_11_strength_returns_with_morning_3.mp3"
-      }
-    ]
-  },
-  {
-    "theme": "the_rabbit_who_loved_eternal_autumn",
-    "name": "track_12_returning_to_eternal_autumn",
-    "prompt": "Nostalgic instrumental cool jazz, 72 BPM, mellow tenor saxophone, upright bass and soft brushed drums. Relaxed steady swing, lyrical returning melody, rich major seventh harmonies with gentle minor colors, warm intimate sound, peaceful resolution, no vocals.",
-    "recordings": [
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_1",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_1.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_2",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_2.mp3"
-      },
-      {
-        "id": "studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_3",
-        "model": "ACE-Step 1.5 · Turbo",
-        "timestamp": 1794035690.0176508,
-        "src": "audio/studio_batch_ee7ff01d2acd44b2_track_12_returning_to_eternal_autumn_3.mp3"
       }
     ]
   }
