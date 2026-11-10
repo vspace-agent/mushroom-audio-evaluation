@@ -3152,6 +3152,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_01_november_behind_the_windows_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_01_november_behind_the_windows_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_01_november_behind_the_windows_1.mp3"
       }
     ]
   },
@@ -3177,6 +3183,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_02_the_silver_haired_gentleman_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_02_the_silver_haired_gentleman_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_02_the_silver_haired_gentleman_1.mp3"
       }
     ]
   },
@@ -3202,6 +3214,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_03_oat_milk_cappuccino_and_cheesecake_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_03_oat_milk_cappuccino_and_cheesecake_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_03_oat_milk_cappuccino_and_cheesecake_1.mp3"
       }
     ]
   },
@@ -3227,6 +3245,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_04_the_cat_is_secretly_waiting_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_04_the_cat_is_secretly_waiting_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_04_the_cat_is_secretly_waiting_1.mp3"
       }
     ]
   },
@@ -3252,6 +3276,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_05_the_first_awkward_cuddle_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_05_the_first_awkward_cuddle_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_05_the_first_awkward_cuddle_1.mp3"
       }
     ]
   },
@@ -3277,6 +3307,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_06_the_cat_teaches_him_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_06_the_cat_teaches_him_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_06_the_cat_teaches_him_1.mp3"
       }
     ]
   },
@@ -3302,6 +3338,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_07_not_like_that_sir_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_07_not_like_that_sir_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_07_not_like_that_sir_1.mp3"
       }
     ]
   },
@@ -3327,6 +3369,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_08_the_cat_decides_to_stay_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_08_the_cat_decides_to_stay_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_08_the_cat_decides_to_stay_1.mp3"
       }
     ]
   },
@@ -3352,6 +3400,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794296073.538862,
         "src": "audio/studio_batch_d5405eacef38414e_track_09_a_little_warmth_before_winter_3.mp3"
+      },
+      {
+        "id": "studio_batch_dd47c51c11804011_track_09_a_little_warmth_before_winter_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794299573.0310578,
+        "src": "audio/studio_batch_dd47c51c11804011_track_09_a_little_warmth_before_winter_1.mp3"
       }
     ]
   }
