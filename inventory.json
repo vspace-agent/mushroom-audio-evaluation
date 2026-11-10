@@ -3129,5 +3129,230 @@
         "src": "audio/studio_batch_e62475e824974e5f_track_05_the_same_little_adventure_3.mp3"
       }
     ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_01_november_behind_the_windows",
+    "prompt": "Melancholic instrumental cool jazz, 66 BPM, breathy tenor saxophone, warm upright bass and delicate brushed drums. Slow continuous swing, descending minor-key melody, rich seventh harmonies, intimate vintage café acoustics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_01_november_behind_the_windows_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_01_november_behind_the_windows_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_01_november_behind_the_windows_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_01_november_behind_the_windows_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_01_november_behind_the_windows_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_01_november_behind_the_windows_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_02_the_silver_haired_gentleman",
+    "prompt": "Elegant instrumental chamber jazz, 74 BPM, lyrical tenor saxophone, soft acoustic piano and upright bass. Graceful measured melody, relaxed swing, sophisticated major seventh harmonies, warm restrained dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_02_the_silver_haired_gentleman_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_02_the_silver_haired_gentleman_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_02_the_silver_haired_gentleman_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_02_the_silver_haired_gentleman_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_02_the_silver_haired_gentleman_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_02_the_silver_haired_gentleman_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_03_oat_milk_cappuccino_and_cheesecake",
+    "prompt": "Cozy instrumental bossa nova jazz, 82 BPM, warm nylon-string guitar, mellow electric piano, rounded bass and light percussion. Gentle syncopated groove, sweet flowing melody, soft major harmonies, intimate café atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_03_oat_milk_cappuccino_and_cheesecake_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_03_oat_milk_cappuccino_and_cheesecake_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_03_oat_milk_cappuccino_and_cheesecake_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_03_oat_milk_cappuccino_and_cheesecake_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_03_oat_milk_cappuccino_and_cheesecake_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_03_oat_milk_cappuccino_and_cheesecake_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_04_the_cat_is_secretly_waiting",
+    "prompt": "Playful instrumental cool jazz, 76 BPM, mellow alto saxophone, upright bass and soft brushed drums. Short questioning melodic phrases, small syncopated pauses, warm major seventh harmonies, steady relaxed swing, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_04_the_cat_is_secretly_waiting_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_04_the_cat_is_secretly_waiting_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_04_the_cat_is_secretly_waiting_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_04_the_cat_is_secretly_waiting_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_04_the_cat_is_secretly_waiting_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_04_the_cat_is_secretly_waiting_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_05_the_first_awkward_cuddle",
+    "prompt": "Whimsical instrumental chamber jazz, 84 BPM, expressive clarinet, pizzicato double bass and light piano. Hesitant ascending motifs, playful rhythmic accents, gentle call-and-response phrases, warm harmonies, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_05_the_first_awkward_cuddle_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_05_the_first_awkward_cuddle_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_05_the_first_awkward_cuddle_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_05_the_first_awkward_cuddle_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_05_the_first_awkward_cuddle_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_05_the_first_awkward_cuddle_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_06_the_cat_teaches_him",
+    "prompt": "Tender instrumental soul jazz, 70 BPM, warm tenor saxophone, soft electric piano, rounded bass and delicate brushed percussion. Patient repeating melody, gentle musical dialogue, relaxed continuous groove, rich major seventh harmonies, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_06_the_cat_teaches_him_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_06_the_cat_teaches_him_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_06_the_cat_teaches_him_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_06_the_cat_teaches_him_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_06_the_cat_teaches_him_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_06_the_cat_teaches_him_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_07_not_like_that_sir",
+    "prompt": "Playful instrumental swing jazz, 94 BPM, bright alto saxophone, walking upright bass and crisp brushed drums. Cheeky staccato motifs, quick melodic turns, light blues harmonies, lively but controlled rhythmic pulse, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_07_not_like_that_sir_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_07_not_like_that_sir_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_07_not_like_that_sir_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_07_not_like_that_sir_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_07_not_like_that_sir_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_07_not_like_that_sir_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_08_the_cat_decides_to_stay",
+    "prompt": "Intimate instrumental romantic chamber music, 64 BPM, expressive solo cello, warm piano and soft sustained violins. Flowing legato melody, gentle minor-to-major harmonic movement, steady measured pulse, delicate emotional warmth, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_08_the_cat_decides_to_stay_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_08_the_cat_decides_to_stay_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_08_the_cat_decides_to_stay_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_08_the_cat_decides_to_stay_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_08_the_cat_decides_to_stay_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_08_the_cat_decides_to_stay_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_gentleman_and_the_cafe_cat",
+    "name": "track_09_a_little_warmth_before_winter",
+    "prompt": "Tender instrumental downtempo jazz, 65 BPM, mellow tenor saxophone, intimate electric piano, deep warm bass and soft brushed percussion. Slow hypnotic groove, affectionate lyrical melody, rich major seventh harmonies, gradual peaceful resolution, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_d5405eacef38414e_track_09_a_little_warmth_before_winter_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_09_a_little_warmth_before_winter_1.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_09_a_little_warmth_before_winter_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_09_a_little_warmth_before_winter_2.mp3"
+      },
+      {
+        "id": "studio_batch_d5405eacef38414e_track_09_a_little_warmth_before_winter_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794296073.538862,
+        "src": "audio/studio_batch_d5405eacef38414e_track_09_a_little_warmth_before_winter_3.mp3"
+      }
+    ]
   }
 ]
