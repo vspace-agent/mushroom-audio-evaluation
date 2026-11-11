@@ -3542,6 +3542,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_01_batch_story_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_01_batch_story_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_01_batch_story_1.mp3"
       }
     ]
   },
@@ -3568,6 +3574,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_02_two_hands_in_the_dark_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_02_two_hands_in_the_dark_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_02_two_hands_in_the_dark_1.mp3"
       }
     ]
   },
@@ -3594,6 +3606,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_03_two_hours_without_sleep_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_03_two_hours_without_sleep_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_03_two_hours_without_sleep_1.mp3"
       }
     ]
   },
@@ -3620,6 +3638,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_04_the_childhood_friend_in_a_dream_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_04_the_childhood_friend_in_a_dream_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_04_the_childhood_friend_in_a_dream_1.mp3"
       }
     ]
   },
@@ -3646,6 +3670,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_05_the_warmth_between_two_pillows_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_05_the_warmth_between_two_pillows_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_05_the_warmth_between_two_pillows_1.mp3"
       }
     ]
   },
@@ -3672,6 +3702,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_06_november_has_not_woken_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_06_november_has_not_woken_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_06_november_has_not_woken_1.mp3"
       }
     ]
   },
@@ -3698,6 +3734,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_07_the_kettle_and_the_shower_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_07_the_kettle_and_the_shower_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_07_the_kettle_and_the_shower_1.mp3"
       }
     ]
   },
@@ -3724,6 +3766,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_08_tea_for_the_departure_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_08_tea_for_the_departure_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_08_tea_for_the_departure_1.mp3"
       }
     ]
   },
@@ -3750,6 +3798,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_09_the_days_we_will_not_share_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_09_the_days_we_will_not_share_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_09_the_days_we_will_not_share_1.mp3"
       }
     ]
   },
@@ -3776,6 +3830,12 @@
         "model": "ACE-Step 1.5 · Turbo",
         "timestamp": 1794375461.473311,
         "src": "audio/studio_batch_0ca3495eea82425f_track_10_the_morning_keeps_our_warmth_3.mp3"
+      },
+      {
+        "id": "studio_batch_360e6be6427247ee_track_10_the_morning_keeps_our_warmth_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794377772.6967418,
+        "src": "audio/studio_batch_360e6be6427247ee_track_10_the_morning_keeps_our_warmth_1.mp3"
       }
     ]
   },
