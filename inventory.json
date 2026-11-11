@@ -3520,11 +3520,277 @@
     "batch_story": "At the beginning of November, the days grow dark and gloomy, and winter approaches the windows of an old coffee shop. An elegant silver-haired gentleman, occupied with work and family responsibilities, sometimes escapes into the café for a little peace, an oat-milk cappuccino, and a piece of cheesecake. There he hopes to find a cat who has gradually taught him the delicate art of cuddling: sometimes she demands his affection, sometimes she runs away, and sometimes she secretly waits for his arrival. The gentleman is careful and patient, learning that tenderness cannot be hurried or commanded. When the cat finally settles comfortably on his lap, the two share a little warmth before winter."
   },
   {
-    "theme": "last_week_of_autumn_ginkgo_garden",
+    "theme": "the_dark_november_morning_before_departure",
     "batch_story": "",
+    "name": "track_01_batch_story",
+    "prompt": "On a very dark November morning, two lovers wake beside each other in bed, their hands still holding together. One has already spent two hours awake, unable to return to sleep because thoughts of work keep troubling the mind; the other has just emerged from an unusually vivid dream about a childhood friend. Outside, the morning remains cold and almost lightless, while the warmth of their shared bed slowly gives way to the ordinary necessities of departure. One prepares tea in the kitchen, listening to the familiar sound of the other taking a shower in the bathroom. They know that life will keep them apart for a long while, and neither can make the morning last. Their tenderness remains in small gestures, familiar sounds, and the quiet knowledge of having been together.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_01_batch_story_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_01_batch_story_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_01_batch_story_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_01_batch_story_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_01_batch_story_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_01_batch_story_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_02_two_hands_in_the_dark",
+    "prompt": "Intimate instrumental cool jazz, 62 BPM, breathy tenor saxophone, warm upright bass and delicate brushed drums. Slow continuous pulse, tender descending melody, rich minor seventh harmonies, restrained dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_02_two_hands_in_the_dark_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_02_two_hands_in_the_dark_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_02_two_hands_in_the_dark_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_02_two_hands_in_the_dark_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_02_two_hands_in_the_dark_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_02_two_hands_in_the_dark_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_03_two_hours_without_sleep",
+    "prompt": "Melancholic instrumental downtempo jazz, 65 BPM, warm electric piano, deep rounded bass and soft brushed percussion. Steady hypnotic groove, repeating minor-key piano motif, subtle unresolved harmonies, intimate dark atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_03_two_hours_without_sleep_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_03_two_hours_without_sleep_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_03_two_hours_without_sleep_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_03_two_hours_without_sleep_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_03_two_hours_without_sleep_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_03_two_hours_without_sleep_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_04_the_childhood_friend_in_a_dream",
+    "prompt": "Dreamlike instrumental chamber music, 60 BPM, lyrical solo violin, warm cello and gentle piano. Flowing legato melody, nostalgic major-minor harmonies, soft measured pulse, delicate dynamics, natural chamber acoustics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_04_the_childhood_friend_in_a_dream_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_04_the_childhood_friend_in_a_dream_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_04_the_childhood_friend_in_a_dream_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_04_the_childhood_friend_in_a_dream_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_04_the_childhood_friend_in_a_dream_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_04_the_childhood_friend_in_a_dream_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_05_the_warmth_between_two_pillows",
+    "prompt": "Tender instrumental soul jazz, 68 BPM, mellow tenor saxophone, soft electric piano, rounded bass and gentle brushed drums. Relaxed steady groove, affectionate lyrical phrases, rich major seventh harmonies, intimate warm production, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_05_the_warmth_between_two_pillows_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_05_the_warmth_between_two_pillows_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_05_the_warmth_between_two_pillows_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_05_the_warmth_between_two_pillows_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_05_the_warmth_between_two_pillows_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_05_the_warmth_between_two_pillows_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_06_november_has_not_woken",
+    "prompt": "Atmospheric instrumental Japanese-inspired chamber music, 58 BPM, expressive shakuhachi flute and soft sustained cello. Spacious pentatonic melody, gentle measured pulse, restrained dynamics, dark misty morning atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_06_november_has_not_woken_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_06_november_has_not_woken_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_06_november_has_not_woken_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_06_november_has_not_woken_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_06_november_has_not_woken_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_06_november_has_not_woken_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_07_the_kettle_and_the_shower",
+    "prompt": "Gentle instrumental bossa nova jazz, 74 BPM, warm nylon-string guitar, mellow electric piano, soft bass and delicate brushed percussion. Quiet syncopated groove, simple repeating melody, intimate domestic warmth, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_07_the_kettle_and_the_shower_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_07_the_kettle_and_the_shower_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_07_the_kettle_and_the_shower_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_07_the_kettle_and_the_shower_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_07_the_kettle_and_the_shower_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_07_the_kettle_and_the_shower_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_08_tea_for_the_departure",
+    "prompt": "Reflective instrumental chamber jazz, 66 BPM, lyrical clarinet, warm acoustic piano and upright bass. Slow relaxed swing, delicate descending phrases, rich minor-to-major harmonies, restrained bittersweet expression, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_08_tea_for_the_departure_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_08_tea_for_the_departure_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_08_tea_for_the_departure_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_08_tea_for_the_departure_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_08_tea_for_the_departure_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_08_tea_for_the_departure_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_09_the_days_we_will_not_share",
+    "prompt": "Melancholic instrumental romantic chamber music, 64 BPM, expressive solo cello, lyrical violins and warm piano. Broad sustained melody, gentle rhythmic movement, rich minor harmonies, gradual emotional crescendo followed by soft resolution, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_09_the_days_we_will_not_share_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_09_the_days_we_will_not_share_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_09_the_days_we_will_not_share_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_09_the_days_we_will_not_share_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_09_the_days_we_will_not_share_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_09_the_days_we_will_not_share_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "the_dark_november_morning_before_departure",
+    "batch_story": "",
+    "name": "track_10_the_morning_keeps_our_warmth",
+    "prompt": "Tender instrumental downtempo jazz, 65 BPM, mellow tenor saxophone, intimate electric piano, deep warm bass and soft brushed percussion. Slow continuous groove, affectionate returning melody, rich major seventh harmonies, gentle unresolved final cadence, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_10_the_morning_keeps_our_warmth_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_10_the_morning_keeps_our_warmth_1.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_10_the_morning_keeps_our_warmth_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_10_the_morning_keeps_our_warmth_2.mp3"
+      },
+      {
+        "id": "studio_batch_0ca3495eea82425f_track_10_the_morning_keeps_our_warmth_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794375461.473311,
+        "src": "audio/studio_batch_0ca3495eea82425f_track_10_the_morning_keeps_our_warmth_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "last_week_of_autumn_ginkgo_garden",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_01_batch_story",
     "prompt": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_01_batch_story_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_01_batch_story_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_01_batch_story_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3547,10 +3813,16 @@
   },
   {
     "theme": "last_week_of_autumn_ginkgo_garden",
-    "batch_story": "",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_02_golden_ginkgo_ground",
     "prompt": "Gentle instrumental Japanese-inspired chamber music, 62 BPM, shakuhachi as the main instrument with soft sustained strings. Slow steady pulse, spacious breathing phrases, simple pentatonic melody, quiet reflective atmosphere, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_02_golden_ginkgo_ground_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_02_golden_ginkgo_ground_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_02_golden_ginkgo_ground_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3573,10 +3845,16 @@
   },
   {
     "theme": "last_week_of_autumn_ginkgo_garden",
-    "batch_story": "",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_03_stone_lantern_in_mist",
     "prompt": "Quiet instrumental East Asian chamber music, 58 BPM, xiao flute as the main instrument with warm low drone accompaniment. Very slow flowing rhythm, long sustained notes, restrained dynamics, meditative autumn mood, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_03_stone_lantern_in_mist_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_03_stone_lantern_in_mist_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_03_stone_lantern_in_mist_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3599,10 +3877,16 @@
   },
   {
     "theme": "last_week_of_autumn_ginkgo_garden",
-    "batch_story": "",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_04_pond_beneath_falling_leaves",
     "prompt": "Delicate instrumental Japanese-inspired music, 66 BPM, koto as the main instrument with light cello support. Gentle repeating plucked motifs, steady relaxed pulse, clear spacious texture, soft golden atmosphere, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_04_pond_beneath_falling_leaves_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_04_pond_beneath_falling_leaves_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_04_pond_beneath_falling_leaves_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3625,10 +3909,16 @@
   },
   {
     "theme": "last_week_of_autumn_ginkgo_garden",
-    "batch_story": "",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_05_the_bridge_at_dusk",
     "prompt": "Tender instrumental East Asian chamber music, 64 BPM, erhu as the main instrument with subtle piano accompaniment. Lyrical descending melody, measured pulse, warm minor-to-major harmonies, intimate melancholic feeling, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_05_the_bridge_at_dusk_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_05_the_bridge_at_dusk_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_05_the_bridge_at_dusk_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3651,10 +3941,16 @@
   },
   {
     "theme": "last_week_of_autumn_ginkgo_garden",
-    "batch_story": "",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_06_wind_through_bamboo_fence",
     "prompt": "Light instrumental traditional-inspired music, 72 BPM, dizi flute as the main instrument with soft bass support. Gentle continuous rhythm, airy melodic phrases, simple ornamentation, clear bright tone, restrained dynamics, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_06_wind_through_bamboo_fence_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_06_wind_through_bamboo_fence_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_06_wind_through_bamboo_fence_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3677,10 +3973,16 @@
   },
   {
     "theme": "last_week_of_autumn_ginkgo_garden",
-    "batch_story": "",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_07_yellow_leaves_on_moss",
     "prompt": "Graceful instrumental East Asian plucked-string music, 68 BPM, guzheng as the main instrument with soft sustained accompaniment. Calm repeating figures, slow even pulse, spacious harmonies, serene end-of-autumn atmosphere, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_07_yellow_leaves_on_moss_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_07_yellow_leaves_on_moss_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_07_yellow_leaves_on_moss_1",
         "model": "ACE-Step 1.5 · Turbo",
@@ -3703,10 +4005,16 @@
   },
   {
     "theme": "last_week_of_autumn_ginkgo_garden",
-    "batch_story": "",
+    "batch_story": "In the last week of autumn, the Japanese garden becomes quiet and almost weightless beneath the falling ginkgo leaves. Their yellow color is not scattered like many European autumn trees, but gathered into one unified golden presence, covering the ground like a soft memory. The pond, the stones, the moss, and the curved branches all seem to hold their breath as the season prepares to end. This batch explores that late-autumn atmosphere through different Asian-oriented instruments, so we can listen to which timbres the model handles most convincingly. Each piece stays simple and focused, allowing one main instrument to carry the feeling of the garden.",
     "name": "track_08_the_last_week_of_autumn",
     "prompt": "Reflective instrumental Japanese-inspired chamber music, 60 BPM, shamisen as the main instrument with subtle low strings. Sparse steady rhythm, clear plucked melodic phrases, restrained tension and release, quiet dignified closing atmosphere, no vocals.",
     "recordings": [
+      {
+        "id": "studio_batch_36a12ce2505b4f46_track_08_the_last_week_of_autumn_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794326998.111903,
+        "src": "audio/studio_batch_36a12ce2505b4f46_track_08_the_last_week_of_autumn_1.mp3"
+      },
       {
         "id": "studio_batch_bd07f413b59749d3_track_08_the_last_week_of_autumn_1",
         "model": "ACE-Step 1.5 · Turbo",
