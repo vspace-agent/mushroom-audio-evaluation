@@ -4094,5 +4094,265 @@
         "src": "audio/studio_batch_bd07f413b59749d3_track_08_the_last_week_of_autumn_3.mp3"
       }
     ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_01_batch_story",
+    "prompt": "Humans leave roses in places where blooming has already ended: against a dead trunk in the forest, or scattered across a cold concrete terrace facing the river. The flowers do not belong to spring there; they are left where winter already lives, as if carrying a message into a season that cannot answer back. Their color becomes more intense because everything around them is turning quiet, bare, and grey. This batch follows that gesture through different small scenes of farewell, stillness, and endurance. The music should remain intimate and clear, allowing the image of the roses to stay at the center.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_01_batch_story_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_01_batch_story_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_01_batch_story_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_01_batch_story_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_01_batch_story_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_01_batch_story_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_02_roses_against_the_dead_trunk",
+    "prompt": "Reflective instrumental chamber jazz, 66 BPM, mellow tenor saxophone, warm upright bass and delicate brushed drums. Slow steady pulse, descending lyrical melody, rich minor seventh harmonies, intimate restrained atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_02_roses_against_the_dead_trunk_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_02_roses_against_the_dead_trunk_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_02_roses_against_the_dead_trunk_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_02_roses_against_the_dead_trunk_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_02_roses_against_the_dead_trunk_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_02_roses_against_the_dead_trunk_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_03_where_blooming_has_ended",
+    "prompt": "Tender instrumental romantic chamber music, 62 BPM, expressive solo cello and soft piano accompaniment. Measured pulse, sustained minor-key melody, gentle harmonic movement, solemn autumn feeling, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_03_where_blooming_has_ended_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_03_where_blooming_has_ended_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_03_where_blooming_has_ended_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_03_where_blooming_has_ended_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_03_where_blooming_has_ended_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_03_where_blooming_has_ended_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_04_humans_leave_them_here",
+    "prompt": "Atmospheric instrumental downtempo jazz, 65 BPM, warm electric piano, deep rounded bass and soft brushed percussion. Slow hypnotic groove, repeating melancholic motif, subtle tension and release, intimate dark production, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_04_humans_leave_them_here_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_04_humans_leave_them_here_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_04_humans_leave_them_here_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_04_humans_leave_them_here_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_04_humans_leave_them_here_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_04_humans_leave_them_here_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_05_the_message_for_winter",
+    "prompt": "Gentle instrumental cool jazz, 68 BPM, breathy tenor saxophone, mellow electric piano and soft bass. Continuous relaxed groove, flowing melodic phrases, warm major-minor harmonies, thoughtful spacious mood, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_05_the_message_for_winter_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_05_the_message_for_winter_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_05_the_message_for_winter_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_05_the_message_for_winter_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_05_the_message_for_winter_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_05_the_message_for_winter_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_06_petals_on_the_concrete_terrace",
+    "prompt": "Quiet instrumental modern chamber music, 64 BPM, lyrical violin, soft cello and restrained piano. Clear measured rhythm, delicate descending phrases, cool harmonies, open winter air, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_06_petals_on_the_concrete_terrace_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_06_petals_on_the_concrete_terrace_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_06_petals_on_the_concrete_terrace_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_06_petals_on_the_concrete_terrace_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_06_petals_on_the_concrete_terrace_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_06_petals_on_the_concrete_terrace_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_07_river_under_grey_sky",
+    "prompt": "Melancholic instrumental smooth jazz, 70 BPM, expressive tenor saxophone, warm electric piano, deep bass and delicate brushed drums. Steady gentle groove, long flowing melody, rich seventh chords, calm reflective atmosphere, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_07_river_under_grey_sky_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_07_river_under_grey_sky_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_07_river_under_grey_sky_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_07_river_under_grey_sky_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_07_river_under_grey_sky_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_07_river_under_grey_sky_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_08_red_against_the_cold",
+    "prompt": "Dark instrumental modal jazz, 72 BPM, low tenor saxophone, upright bass and crisp brushed percussion. Steady pulse, simple insistent motif, restrained chromatic color, controlled intensity, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_08_red_against_the_cold_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_08_red_against_the_cold_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_08_red_against_the_cold_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_08_red_against_the_cold_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_08_red_against_the_cold_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_08_red_against_the_cold_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_09_spending_the_winter_where_winter_lives",
+    "prompt": "Intimate instrumental downtempo, 63 BPM, warm electric piano, deep soft bass and subtle brushed percussion. Slow continuous groove, sparse repeating melody, unresolved minor harmonies, bodily stillness, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_09_spending_the_winter_where_winter_lives_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_09_spending_the_winter_where_winter_lives_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_09_spending_the_winter_where_winter_lives_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_09_spending_the_winter_where_winter_lives_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_09_spending_the_winter_where_winter_lives_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_09_spending_the_winter_where_winter_lives_3.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "roses_where_winter_lives",
+    "batch_story": "",
+    "name": "track_10_after_the_last_rose",
+    "prompt": "Tender instrumental chamber jazz, 67 BPM, mellow tenor saxophone, soft upright bass and delicate brushed drums. Gentle steady swing, returning lyrical melody, minor-to-major harmonic softening, peaceful fading resolution, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_c624348b57d34182_track_10_after_the_last_rose_1",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_10_after_the_last_rose_1.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_10_after_the_last_rose_2",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_10_after_the_last_rose_2.mp3"
+      },
+      {
+        "id": "studio_batch_c624348b57d34182_track_10_after_the_last_rose_3",
+        "model": "ACE-Step 1.5 · Turbo",
+        "timestamp": 1794559566.959456,
+        "src": "audio/studio_batch_c624348b57d34182_track_10_after_the_last_rose_3.mp3"
+      }
+    ]
   }
 ]
