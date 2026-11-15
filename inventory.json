@@ -4624,6 +4624,188 @@
     ]
   },
   {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_01_batch_story",
+    "prompt": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_01_batch_story_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_01_batch_story_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_02_the_human_desire_to_go_deeper",
+    "prompt": "Powerful instrumental contemporary classical music, 82 BPM, expressive solo violin, deep cellos and full string orchestra. Broad ascending melody, determined rhythmic pulse, rich minor harmonies, gradual orchestral crescendo, noble restless energy, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_02_the_human_desire_to_go_deeper_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_02_the_human_desire_to_go_deeper_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_03_years_of_preparation",
+    "prompt": "Instrumental minimalist classical music, 96 BPM, precise piano ostinato, rhythmic pizzicato violins and warm cellos. Repeating sixteenth-note patterns, disciplined steady pulse, gradually evolving harmonies, controlled dynamics, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_03_years_of_preparation_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_03_years_of_preparation_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_04_the_record_to_be_broken",
+    "prompt": "Dramatic instrumental orchestral music, 108 BPM, powerful low strings, urgent violins and resonant French horns. Driving rhythmic ostinato, bold ascending phrases, tense minor harmonies, strong controlled crescendos, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_04_the_record_to_be_broken_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_04_the_record_to_be_broken_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_05_the_last_breath_of_air",
+    "prompt": "Intimate instrumental contemporary chamber music, 60 BPM, expressive solo cello, delicate piano and sustained viola. Slow measured pulse, descending minor-key melody, suspended harmonies, restrained tension, natural acoustic sound, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_05_the_last_breath_of_air_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_05_the_last_breath_of_air_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_06_the_descent_begins",
+    "prompt": "Dark instrumental cinematic electronic music, 76 BPM, deep analog synthesizer bass, precise pulsing arpeggios and restrained electronic percussion. Steady descending harmonic progression, gradually darkening textures, controlled intensity, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_06_the_descent_begins_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_06_the_descent_begins_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_07_pressure_against_the_body",
+    "prompt": "Intense instrumental modern string orchestra, 88 BPM, low cellos and double basses, tightly layered violins and violas. Repeated rhythmic figures, close dissonant harmonies, increasing dynamic pressure, relentless steady pulse, strings only, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_07_pressure_against_the_body_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_07_pressure_against_the_body_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_08_where_the_light_disappears",
+    "prompt": "Atmospheric instrumental ambient electronic music, 58 BPM, deep sustained synthesizer tones, slowly evolving harmonic layers and soft sub-bass pulses. Sparse descending melody, vast spatial reverb, restrained dark texture, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_08_where_the_light_disappears_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_08_where_the_light_disappears_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_09_the_depth_no_one_has_reached",
+    "prompt": "Majestic instrumental contemporary orchestral music, 72 BPM, expressive solo violin, deep cellos, rich French horns and sustained strings. Wide melodic intervals, slowly rising harmonic tension, powerful restrained crescendo, profound sense of scale, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_09_the_depth_no_one_has_reached_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_09_the_depth_no_one_has_reached_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_10_one_more_meter",
+    "prompt": "Tense instrumental minimalist classical music, 104 BPM, insistent piano ostinato, urgent violin repetitions and deep rhythmic cellos. Precise steady pulse, ascending chromatic patterns, accumulating harmonic tension, controlled relentless momentum, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_10_one_more_meter_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_10_one_more_meter_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_11_the_point_of_no_return",
+    "prompt": "Dark instrumental contemporary string music, 64 BPM, expressive solo cello, sustained low strings and trembling high violins. Slow measured pulse, unresolved minor harmonies, dissonant suspensions, long restrained crescendo, strings only, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_11_the_point_of_no_return_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_11_the_point_of_no_return_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_12_some_never_returned",
+    "prompt": "Solemn instrumental romantic chamber music, 56 BPM, mournful solo violin, deep cello and soft piano. Long descending melodic phrases, rich minor harmonies, measured rhythmic movement, delicate restrained dynamics, unresolved final cadence, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_12_some_never_returned_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_12_some_never_returned_1.mp3"
+      }
+    ]
+  },
+  {
+    "theme": "beyond_the_human_depth_record",
+    "batch_story": "Some divers devote years of their lives to reaching depths no human has ever reached before. They train their bodies, refine their techniques, study the limits of pressure and breath, and repeat countless small procedures until precision becomes instinct. Every record represents an encounter between extraordinary human preparation and an environment that cannot forgive certain mistakes. Beneath the surface, the familiar world disappears, and the diver continues downward into darkness, pressure, silence, and the unknown. Some record-breaking attempts end in triumph, while others end in the deaths of exceptionally skilled people who understood the risks and nevertheless pursued the limits of human experience. Their ambition is not to die, but to experience life beyond what once seemed possible, and to return alive from the edge of that possibility.",
+    "name": "track_13_the_will_to_return_alive",
+    "prompt": "Powerful instrumental romantic string orchestra, 92 BPM, soaring solo violin, vigorous cellos, warm violas and deep double basses. Strong ascending melody, determined steady pulse, dramatic minor-to-major harmonic development, expansive triumphant crescendo, strings only, no vocals.",
+    "recordings": [
+      {
+        "id": "studio_batch_63355054bc954812_track_13_the_will_to_return_alive_1",
+        "model": "ACE-Step 1.5 · LM+SFT",
+        "timestamp": 1794744992.0972958,
+        "src": "audio/studio_batch_63355054bc954812_track_13_the_will_to_return_alive_1.mp3"
+      }
+    ]
+  },
+  {
     "theme": "the_depths_where_life_meets_death",
     "batch_story": "One November evening, a licensed diver introduces a friend to the mysterious world beneath the water, showing his diving equipment and explaining the extraordinary concentration, discipline, and precision required to explore the depths. He tells stories of remarkable divers who spent years training their bodies and minds, challenging records and reaching places few humans have ever experienced. Some never returned, and their deaths reveal how narrow the boundary between human achievement and mortality can become. Yet what is most moving is that all their preparation, calculations, training, and courage were devoted not to dying, but to remaining alive while experiencing something extraordinary. Beneath the surface lies a world of unfamiliar sensations, immense beauty, physical limits, and profound silence. This is a story about the human desire to experience life so intensely that people learn to approach the edge of death with extraordinary care.",
     "name": "track_01_batch_story",
